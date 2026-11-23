@@ -1,0 +1,1949 @@
+# Restriction enzymes: supplier and incubation temperature
+#
+# From REBASE. Roberts RJ, Vincze T, Posfai J, Macelis D. REBASE: a database for DNA restriction and modification: enzymes, genes and genomes. Nucleic Acids Research 2023;51(D1):D629-D630. doi:10.1093/nar/gkac975, PMID 36318248
+#
+# Only the companies REBASE lists are here. Our own table also carries suppliers
+# REBASE does not list, mostly companies that have stopped making enzymes; those
+# did not come from REBASE and are left out rather than published under its name.
+#
+# Buffers are not included either: REBASE carries no buffer information.
+# See PROVENANCE.md section 2.
+#
+supplier	enzyme	site	temperature
+CHIMERx	AccI	GTMKAC	37
+CHIMERx	AccII	CGCG	37
+CHIMERx	AccIII	TCCGGA	37
+CHIMERx	AcvI	CACGTG	37
+CHIMERx	AluI	AGCT	37
+CHIMERx	ApaI	GGGCCC	30
+CHIMERx	AvaI	CYCGRG	37
+CHIMERx	BalI	TGGCCA	37
+CHIMERx	BamHI	GGATCC	37
+CHIMERx	BanII	GRGCYC	37
+CHIMERx	BglI	GCCNNNNNGGC	37
+CHIMERx	BglII	AGATCT	37
+CHIMERx	BsiHKCI	CYCGRG	55
+CHIMERx	BspTNI	GGTCTC	43
+CHIMERx	BssHII	GCGCGC	50
+CHIMERx	BstXI	CCANNNNNNTGG	55
+CHIMERx	BsuTUI	ATCGAT	37
+CHIMERx	ClaI	ATCGAT	37
+CHIMERx	CviJI	RGCY	37
+CHIMERx	DdeI	CTNAG	37
+CHIMERx	DpnI	GATC	37
+CHIMERx	DraI	TTTAAA	37
+CHIMERx	EcoRI	GAATTC	37
+CHIMERx	EcoRV	GATATC	37
+CHIMERx	FokI	GGATG	37
+CHIMERx	HaeIII	GGCC	37
+CHIMERx	HhaI	GCGC	37
+CHIMERx	HincII	GTYRAC	37
+CHIMERx	HindIII	AAGCTT	37
+CHIMERx	HinfI	GANTC	37
+CHIMERx	HpaI	GTTAAC	37
+CHIMERx	HpaII	CCGG	37
+CHIMERx	KpnI	GGTACC	37
+CHIMERx	MboI	GATC	37
+CHIMERx	MboII	GAAGA	37
+CHIMERx	MluI	ACGCGT	37
+CHIMERx	MnlI	CCTC	37
+CHIMERx	MspI	CCGG	37
+CHIMERx	NarI	GGCGCC	37
+CHIMERx	NcoI	CCATGG	37
+CHIMERx	NdeI	CATATG	37
+CHIMERx	NheI	GCTAGC	37
+CHIMERx	NotI	GCGGCCGC	37
+CHIMERx	NruI	TCGCGA	37
+CHIMERx	NsiI	ATGCAT	37
+CHIMERx	PinAI	ACCGGT	37
+CHIMERx	PstI	CTGCAG	37
+CHIMERx	PvuI	CGATCG	37
+CHIMERx	PvuII	CAGCTG	37
+CHIMERx	RGCY,	RGCR	37
+CHIMERx	RsaI	GTAC	37
+CHIMERx	RsrII	CGGWCCG	37
+CHIMERx	SacI	GAGCTC	37
+CHIMERx	SacII	CCGCGG	37
+CHIMERx	SalI	GTCGAC	37
+CHIMERx	Sau3AI	GATC	37
+CHIMERx	ScaI	AGTACT	37
+CHIMERx	SfiI	GGCCNNNNNGGCC	50
+CHIMERx	SinI	GGWCC	37
+CHIMERx	SmaI	CCCGGG	30
+CHIMERx	SpeI	ACTAGT	37
+CHIMERx	SphI	GCATGC	37
+CHIMERx	SspI	AATATT	37
+CHIMERx	SstI	GAGCTC	37
+CHIMERx	SstII	CCGCGG	37
+CHIMERx	StuI	AGGCCT	37
+CHIMERx	TaqI	TCGA	65
+CHIMERx	TaqII	GACCGA	65
+CHIMERx	TspDTI	ATGAA	70
+CHIMERx	TspGWI	ACGGA	70
+CHIMERx	Tth111I	GACNNNGTC	65
+CHIMERx	XbaI	TCTAGA	37
+CHIMERx	XhoI	CTCGAG	37
+EURx	AccI	GTMKAC	37
+EURx	AcvI	CACGTG	37
+EURx	AluI	AGCT	37
+EURx	ApaI	GGGCCC	25
+EURx	AvaI	CYCGRG	37
+EURx	AvaII	GGWCC	37
+EURx	BalI	TGGCCA	37
+EURx	BamHI	GGATCC	37
+EURx	BanII	GRGCYC	37
+EURx	BglI	GCCNNNNNGGC	37
+EURx	BglII	AGATCT	37
+EURx	BsiHKCI	CYCGRG	65
+EURx	BspHI	TCATGA	37
+EURx	BspTNI	GGTCTC	43
+EURx	BssHII	GCGCGC	50
+EURx	BstXI	CCANNNNNNTGG	50
+EURx	BsuTUI	ATCGAT	37
+EURx	ClaI	ATCGAT	37
+EURx	CviJI	RGCY	37
+EURx	DdeI	CTNAG	37
+EURx	DpnI	GATC	37
+EURx	DraI	TTTAAA	37
+EURx	EcoRI	GAATTC	37
+EURx	EcoRV	GATATC	37
+EURx	FokI	GGATG	37
+EURx	HaeIII	GGCC	37
+EURx	HhaI	GCGC	37
+EURx	HincII	GTYRAC	37
+EURx	HindIII	AAGCTT	37
+EURx	HinfI	GANTC	37
+EURx	HpaI	GTTAAC	37
+EURx	HpaII	CCGG	37
+EURx	HpySP4III	ACNGT	37
+EURx	KpnI	GGTACC	37
+EURx	MboI	GATC	37
+EURx	MboII	GAAGA	37
+EURx	MluI	ACGCGT	37
+EURx	MmeI	TCCRAC	37
+EURx	MnlI	CCTC	37
+EURx	MspI	CCGG	37
+EURx	NarI	GGCGCC	37
+EURx	NcoI	CCATGG	37
+EURx	NdeI	CATATG	37
+EURx	NheI	GCTAGC	37
+EURx	NotI	GCGGCCGC	37
+EURx	NruI	TCGCGA	37
+EURx	NsiI	ATGCAT	37
+EURx	PinAI	ACCGGT	37
+EURx	PstI	CTGCAG	37
+EURx	PvuI	CGATCG	37
+EURx	PvuII	CAGCTG	37
+EURx	RGCY,	RGCR	37
+EURx	RsaI	GTAC	37
+EURx	RsrII	CGGWCCG	37
+EURx	SacI	GAGCTC	37
+EURx	SacII	CCGCGG	37
+EURx	SalI	GTCGAC	37
+EURx	Sau3AI	GATC	37
+EURx	ScaI	AGTACT	37
+EURx	SfiI	GGCCNNNNNGGCC	50
+EURx	SinI	GGWCC	37
+EURx	SmaI	CCCGGG	25
+EURx	SpeI	ACTAGT	37
+EURx	SphI	GCATGC	37
+EURx	SspI	AATATT	37
+EURx	StuI	AGGCCT	37
+EURx	TaqI	TCGA	65
+EURx	TaqII	GACCGA	75
+EURx	TspDTI	ATGAA	70
+EURx	TspGWI	ACGGA	70
+EURx	Tth111I	GACNNNGTC	65
+EURx	XbaI	TCTAGA	37
+EURx	XhoI	CTCGAG	37
+MilliporeSigma	AccI	GTMKAC	37
+MilliporeSigma	AluI	AGCT	37
+MilliporeSigma	ApaI	GGGCCC	30
+MilliporeSigma	AvaI	CYCGRG	37
+MilliporeSigma	AvaII	GGWCC	37
+MilliporeSigma	BamHI	GGATCC	37
+MilliporeSigma	BclI	TGATCA	50
+MilliporeSigma	BglI	GCCNNNNNGGC	37
+MilliporeSigma	BglII	AGATCT	37
+MilliporeSigma	BlnI	CCTAGG	37
+MilliporeSigma	BsmI	GAATGC	65
+MilliporeSigma	BssHII	GCGCGC	50
+MilliporeSigma	BstEII	GGTNACC	60
+MilliporeSigma	CfoI	GCGC	37
+MilliporeSigma	ClaI	ATCGAT	37
+MilliporeSigma	DdeI	CTNAG	37
+MilliporeSigma	DpnI	GATC	37
+MilliporeSigma	DraI	TTTAAA	37
+MilliporeSigma	EclXI	CGGCCG	37
+MilliporeSigma	EcoRI	GAATTC	37
+MilliporeSigma	EcoRII	CCWGG	37
+MilliporeSigma	EcoRV	GATATC	37
+MilliporeSigma	HaeII	RGCGCY	37
+MilliporeSigma	HaeIII	GGCC	37
+MilliporeSigma	HindIII	AAGCTT	37
+MilliporeSigma	HpaI	GTTAAC	37
+MilliporeSigma	HpaII	CCGG	37
+MilliporeSigma	KpnI	GGTACC	37
+MilliporeSigma	KspI	CCGCGG	37
+MilliporeSigma	MluI	ACGCGT	37
+MilliporeSigma	MluNI	TGGCCA	37
+MilliporeSigma	MspI	CCGG	37
+MilliporeSigma	MvaI	CCWGG	37
+MilliporeSigma	NcoI	CCATGG	37
+MilliporeSigma	NdeI	CATATG	37
+MilliporeSigma	NheI	GCTAGC	37
+MilliporeSigma	NotI	GCGGCCGC	37
+MilliporeSigma	NsiI	ATGCAT	37
+MilliporeSigma	PstI	CTGCAG	37
+MilliporeSigma	PvuI	CGATCG	37
+MilliporeSigma	PvuII	CAGCTG	37
+MilliporeSigma	RsaI	GTAC	37
+MilliporeSigma	SacI	GAGCTC	37
+MilliporeSigma	SalI	GTCGAC	37
+MilliporeSigma	Sau3AI	GATC	37
+MilliporeSigma	ScaI	AGTACT	37
+MilliporeSigma	ScrFI	CCNGG	37
+MilliporeSigma	SfiI	GGCCNNNNNGGCC	37
+MilliporeSigma	SmaI	CCCGGG	25
+MilliporeSigma	SpeI	ACTAGT	37
+MilliporeSigma	SphI	GCATGC	37
+MilliporeSigma	SspI	AATATT	37
+MilliporeSigma	StuI	AGGCCT	37
+MilliporeSigma	SwaI	ATTTAAAT	37
+MilliporeSigma	TaqI	TCGA	65
+MilliporeSigma	XbaI	TCTAGA	37
+MilliporeSigma	XhoI	CTCGAG	37
+Minotech	AluI	AGCT	37
+Minotech	ApaLI	GTGCAC	37
+Minotech	AsuII	TTCGAA	37
+Minotech	BamHI	GGATCC	37
+Minotech	BclI	TGATCA	50
+Minotech	BglI	GCCNNNNNGGC	37
+Minotech	BglII	AGATCT	37
+Minotech	BseAI	TCCGGA	55
+Minotech	BseBI	CCWGG	60
+Minotech	BseCI	ATCGAT	55
+Minotech	BshFI	GGCC	37
+Minotech	BsiSI	CCGG	55
+Minotech	BssAI	RCCGGY	65
+Minotech	BstEII	GGTNACC	60
+Minotech	CspAI	ACCGGT	37
+Minotech	EcoRI	GAATTC	37
+Minotech	EcoRV	GATATC	37
+Minotech	HindIII	AAGCTT	37
+Minotech	HinfI	GANTC	37
+Minotech	HpaI	GTTAAC	37
+Minotech	KpnI	GGTACC	37
+Minotech	MboI	GATC	37
+Minotech	MspCI	CTTAAG	37
+Minotech	NaeI	GCCGGC	37
+Minotech	NcoI	CCATGG	37
+Minotech	NheI	GCTAGC	37
+Minotech	NotI	GCGGCCGC	37
+Minotech	NruI	TCGCGA	37
+Minotech	PspPI	GGNCC	25
+Minotech	PstI	CTGCAG	37
+Minotech	PvuII	CAGCTG	37
+Minotech	RsaI	GTAC	37
+Minotech	SalI	GTCGAC	37
+Minotech	Sau3AI	GATC	37
+Minotech	ScaI	AGTACT	37
+Minotech	SfiI	GGCCNNNNNGGCC	50
+Minotech	SgrBI	CCGCGG	37
+Minotech	SlaI	CTCGAG	37
+Minotech	SmaI	CCCGGG	25
+Minotech	SnaBI	TACGTA	37
+Minotech	SphI	GCATGC	37
+Minotech	SseBI	AGGCCT	37
+Minotech	SspI	AATATT	37
+Minotech	SstI	GAGCTC	37
+Minotech	StyI	CCWWGG	37
+Minotech	TaqI	TCGA	65
+Minotech	XbaI	TCTAGA	37
+New England Biolabs	AatII	GACGTC	37
+New England Biolabs	Acc65I	GGTACC	37
+New England Biolabs	AccI	GTMKAC	37
+New England Biolabs	AciI	CCGC	37
+New England Biolabs	AclI	AACGTT	37
+New England Biolabs	AcuI	CTGAAG	37
+New England Biolabs	AfeI	AGCGCT	37
+New England Biolabs	AflII	CTTAAG	37
+New England Biolabs	AflIII	ACRYGT	37
+New England Biolabs	AgeI	ACCGGT	37
+New England Biolabs	AgeI-HF®	ACCGGT	37
+New England Biolabs	AhdI	GACNNNNNGTC	37
+New England Biolabs	AleI	CACNNNNGTG	37
+New England Biolabs	AleI-v2	CACNNNNGTG	37
+New England Biolabs	AluI	AGCT	37
+New England Biolabs	AlwI	GGATC	37
+New England Biolabs	AlwNI	CAGNNNCTG	37
+New England Biolabs	ApaI	GGGCCC	25
+New England Biolabs	ApaLI	GTGCAC	37
+New England Biolabs	ApeKI	GCWGC	75
+New England Biolabs	ApoI	RAATTY	50
+New England Biolabs	ApoI-HF®	RAATTY	37
+New England Biolabs	AscI	GGCGCGCC	37
+New England Biolabs	AseI	ATTAAT	37
+New England Biolabs	AsiSI	GCGATCGC	37
+New England Biolabs	AvaI	CYCGRG	37
+New England Biolabs	AvaII	GGWCC	37
+New England Biolabs	AvrII	CCTAGG	37
+New England Biolabs	BaeGI	GKGCMC	37
+New England Biolabs	BaeI	ACNNNNGTAYC	25
+New England Biolabs	BamHI	GGATCC	37
+New England Biolabs	BamHI-HF®	GGATCC	37
+New England Biolabs	BanI	GGYRCC	37
+New England Biolabs	BanII	GRGCYC	37
+New England Biolabs	BbsI	GAAGAC	37
+New England Biolabs	BbsI-HF®	GAAGAC	37
+New England Biolabs	BbvCI	CCTCAGC	37
+New England Biolabs	BbvI	GCAGC	37
+New England Biolabs	BccI	CCATC	37
+New England Biolabs	BceAI	ACGGC	37
+New England Biolabs	BcgI	CGANNNNNNTGC	37
+New England Biolabs	BciVI	GTATCC	37
+New England Biolabs	BclI	TGATCA	50
+New England Biolabs	BclI-HF®	TGATCA	37
+New England Biolabs	BcoDI	GTCTC	37
+New England Biolabs	BfaI	CTAG	37
+New England Biolabs	BfuAI	ACCTGC	50
+New England Biolabs	BfuCI	GATC	37
+New England Biolabs	BglI	GCCNNNNNGGC	37
+New England Biolabs	BglII	AGATCT	37
+New England Biolabs	BlpI	GCTNAGC	37
+New England Biolabs	Bme1580I	GKGCMC	37
+New England Biolabs	BmgBI	CACGTC	37
+New England Biolabs	BmrI	ACTGGG	37
+New England Biolabs	BmtI	GCTAGC	37
+New England Biolabs	BmtI-HF®	GCTAGC	37
+New England Biolabs	BpmI	CTGGAG	37
+New England Biolabs	Bpu10I	CCTNAGC	37
+New England Biolabs	BpuEI	CTTGAG	37
+New England Biolabs	BsaAI	YACGTR	37
+New England Biolabs	BsaBI	GATNNNNATC	60
+New England Biolabs	BsaHI	GRCGYC	37
+New England Biolabs	BsaI	GGTCTC	37
+New England Biolabs	BsaI-HF®	GGTCTC	37
+New England Biolabs	BsaI-HF®v2	GGTCTC	37
+New England Biolabs	BsaJI	CCNNGG	60
+New England Biolabs	BsaWI	WCCGGW	60
+New England Biolabs	BsaXI	ACNNNNNCTCC	37
+New England Biolabs	BseRI	GAGGAG	37
+New England Biolabs	BseYI	CCCAGC	37
+New England Biolabs	BsgI	GTGCAG	37
+New England Biolabs	BsiEI	CGRYCG	60
+New England Biolabs	BsiHKAI	GWGCWC	65
+New England Biolabs	BsiWI	CGTACG	55
+New England Biolabs	BsiWI-HF®	CGTACG	37
+New England Biolabs	BslI	CCNNNNNNNGG	55
+New England Biolabs	BsmAI	GTCTC	55
+New England Biolabs	BsmBI	CGTCTC	55
+New England Biolabs	BsmBI-v2	CGTCTC	55
+New England Biolabs	BsmFI	GGGAC	65
+New England Biolabs	BsmI	GAATGC	65
+New England Biolabs	BsoBI	CYCGRG	37
+New England Biolabs	Bsp1286I	GDGCHC	37
+New England Biolabs	BspCNI	CTCAG	37
+New England Biolabs	BspDI	ATCGAT	37
+New England Biolabs	BspEI	TCCGGA	37
+New England Biolabs	BspHI	TCATGA	37
+New England Biolabs	BspMI	ACCTGC	37
+New England Biolabs	BspQI	GCTCTTC	50
+New England Biolabs	BsrBI	CCGCTC	37
+New England Biolabs	BsrDI	GCAATG	65
+New England Biolabs	BsrFI	RCCGGY	37
+New England Biolabs	BsrFI-v2	RCCGGY	37
+New England Biolabs	BsrGI	TGTACA	37
+New England Biolabs	BsrGI-HF®	TGTACA	37
+New England Biolabs	BsrI	ACTGG	65
+New England Biolabs	BssHII	GCGCGC	37
+New England Biolabs	BssKI	CCNGG	60
+New England Biolabs	BssSI	CACGAG	37
+New England Biolabs	BssSI-v2	CACGAG	37
+New England Biolabs	BssSαI	CACGAG	37
+New England Biolabs	BstAPI	GCANNNNNTGC	60
+New England Biolabs	BstBI	TTCGAA	65
+New England Biolabs	BstEII	GGTNACC	60
+New England Biolabs	BstEII-HF®	GGTNACC	37
+New England Biolabs	BstNI	CCWGG	60
+New England Biolabs	BstUI	CGCG	60
+New England Biolabs	BstXI	CCANNNNNNTGG	37
+New England Biolabs	BstYI	RGATCY	60
+New England Biolabs	BstZ17I	GTATAC	37
+New England Biolabs	BstZ17I-HF®	GTATAC	37
+New England Biolabs	Bsu36I	CCTNAGG	37
+New England Biolabs	BtgI	CCRYGG	37
+New England Biolabs	BtgZI	GCGATG	60
+New England Biolabs	BtsCI	GGATG	50
+New England Biolabs	BtsI	GCAGTG	37
+New England Biolabs	BtsI-v2	GCAGTG	37
+New England Biolabs	BtsIMutI	CAGTG	55
+New England Biolabs	BtsαI	GCAGTG	55
+New England Biolabs	Cac8I	GCNNGC	37
+New England Biolabs	ClaI	ATCGAT	37
+New England Biolabs	CspCI	CAANNNNNGTGG	37
+New England Biolabs	CviAII	CATG	25
+New England Biolabs	CviKI-1	RGCY	37
+New England Biolabs	CviQI	GTAC	25
+New England Biolabs	DdeI	CTNAG	37
+New England Biolabs	DpnI	GATC	37
+New England Biolabs	DpnII	GATC	37
+New England Biolabs	DraI	TTTAAA	37
+New England Biolabs	DraIII	CACNNNGTG	37
+New England Biolabs	DraIII-HF®	CACNNNGTG	37
+New England Biolabs	DrdI	GACNNNNNNGTC	37
+New England Biolabs	EaeI	YGGCCR	37
+New England Biolabs	EagI	CGGCCG	37
+New England Biolabs	EagI-HF®	CGGCCG	37
+New England Biolabs	EarI	CTCTTC	37
+New England Biolabs	EciI	GGCGGA	37
+New England Biolabs	Eco53kI	GAGCTC	37
+New England Biolabs	EcoNI	CCTNNNNNAGG	37
+New England Biolabs	EcoO109I	RGGNCCY	37
+New England Biolabs	EcoP15I	CAGCAG	37
+New England Biolabs	EcoRI	GAATTC	37
+New England Biolabs	EcoRI-HF®	GAATTC	37
+New England Biolabs	EcoRV	GATATC	37
+New England Biolabs	EcoRV-HF®	GATATC	37
+New England Biolabs	Esp3I	CGTCTC	37
+New England Biolabs	FatI	CATG	55
+New England Biolabs	FauI	CCCGC	55
+New England Biolabs	Fnu4HI	GCNGC	37
+New England Biolabs	FokI	GGATG	37
+New England Biolabs	FseI	GGCCGGCC	37
+New England Biolabs	FspI	TGCGCA	37
+New England Biolabs	HaeII	RGCGCY	37
+New England Biolabs	HaeIII	GGCC	37
+New England Biolabs	HgaI	GACGC	37
+New England Biolabs	HhaI	GCGC	37
+New England Biolabs	HincII	GTYRAC	37
+New England Biolabs	HindIII	AAGCTT	37
+New England Biolabs	HindIII-HF®	AAGCTT	37
+New England Biolabs	HinfI	GANTC	37
+New England Biolabs	HinP1I	GCGC	37
+New England Biolabs	HpaI	GTTAAC	37
+New England Biolabs	HpaII	CCGG	37
+New England Biolabs	HphI	GGTGA	37
+New England Biolabs	Hpy166II	GTNNAC	37
+New England Biolabs	Hpy188I	TCNGA	37
+New England Biolabs	Hpy188III	TCNNGA	37
+New England Biolabs	Hpy99I	CGWCG	37
+New England Biolabs	HpyAV	CCTTC	37
+New England Biolabs	HpyCH4III	ACNGT	37
+New England Biolabs	HpyCH4IV	ACGT	37
+New England Biolabs	HpyCH4V	TGCA	37
+New England Biolabs	I-CeuI	TAACTATAACGGTCCTAAGGTAGCGA	37
+New England Biolabs	I-SceI	TAGGGATAACAGGGTAAT	37
+New England Biolabs	KasI	GGCGCC	37
+New England Biolabs	KpnI	GGTACC	37
+New England Biolabs	KpnI-HF®	GGTACC	37
+New England Biolabs	LpnPI	CCDG	37
+New England Biolabs	MboI	GATC	37
+New England Biolabs	MboII	GAAGA	37
+New England Biolabs	MfeI	CAATTG	37
+New England Biolabs	MfeI-HF®	CAATTG	37
+New England Biolabs	MluCI	AATT	37
+New England Biolabs	MluI	ACGCGT	37
+New England Biolabs	MluI-HF®	ACGCGT	37
+New England Biolabs	MlyI	GAGTC	37
+New England Biolabs	MmeI	TCCRAC	37
+New England Biolabs	MnlI	CCTC	37
+New England Biolabs	MscI	TGGCCA	37
+New England Biolabs	MseI	TTAA	37
+New England Biolabs	MslI	CAYNNNNRTG	37
+New England Biolabs	MspA1I	CMGCKG	37
+New England Biolabs	MspI	CCGG	37
+New England Biolabs	MwoI	GCNNNNNNNGC	60
+New England Biolabs	NaeI	GCCGGC	37
+New England Biolabs	NarI	GGCGCC	37
+New England Biolabs	Nb.BbvCI	CCTCAGC	37
+New England Biolabs	Nb.BsmI	GAATGC	65
+New England Biolabs	Nb.BsrDI	GCAATG	65
+New England Biolabs	Nb.BssSI	CACGAG	37
+New England Biolabs	Nb.BtsI	GCAGTG	37
+New England Biolabs	NciI	CCSGG	37
+New England Biolabs	NcoI	CCATGG	37
+New England Biolabs	NcoI-HF®	CCATGG	37
+New England Biolabs	NdeI	CATATG	37
+New England Biolabs	NgoMIV	GCCGGC	37
+New England Biolabs	NheI	GCTAGC	37
+New England Biolabs	NheI-HF®	GCTAGC	37
+New England Biolabs	NlaIII	CATG	37
+New England Biolabs	NlaIV	GGNNCC	37
+New England Biolabs	NmeAIII	GCCGAG	37
+New England Biolabs	NotI	GCGGCCGC	37
+New England Biolabs	NotI-HF®	GCGGCCGC	37
+New England Biolabs	NruI	TCGCGA	37
+New England Biolabs	NruI-HF®	TCGCGA	37
+New England Biolabs	NsiI	ATGCAT	37
+New England Biolabs	NsiI-HF®	ATGCAT	37
+New England Biolabs	NspI	RCATGY	37
+New England Biolabs	Nt.AlwI	GGATC	37
+New England Biolabs	Nt.BbvCI	CCTCAGC	37
+New England Biolabs	Nt.BsmAI	GTCTC	37
+New England Biolabs	Nt.BspQI	GCTCTTC	50
+New England Biolabs	Nt.BstNBI	GAGTC	55
+New England Biolabs	PacI	TTAATTAA	37
+New England Biolabs	PaeR7I	CTCGAG	37
+New England Biolabs	PaqCI	CACCTGC	37
+New England Biolabs	PciI	ACATGT	37
+New England Biolabs	PflFI	GACNNNGTC	37
+New England Biolabs	PflMI	CCANNNNNTGG	37
+New England Biolabs	PhoI	GGCC	75
+New England Biolabs	PI-PspI	TGGCAAACAGCTATTATGGGTATTATGGGT	65
+New England Biolabs	PI-SceI	ATCTATGTCGGGTGCGGAGAAAGAGGTAATGAAATGG	37
+New England Biolabs	PleI	GAGTC	37
+New England Biolabs	PluTI	GGCGCC	37
+New England Biolabs	PmeI	GTTTAAAC	37
+New England Biolabs	PmlI	CACGTG	37
+New England Biolabs	PpuMI	RGGWCCY	37
+New England Biolabs	PshAI	GACNNNNGTC	37
+New England Biolabs	PsiI	TTATAA	37
+New England Biolabs	PsiI-v2	TTATAA	37
+New England Biolabs	PspGI	CCWGG	75
+New England Biolabs	PspOMI	GGGCCC	37
+New England Biolabs	PspXI	VCTCGAGB	37
+New England Biolabs	PstI	CTGCAG	37
+New England Biolabs	PstI-HF®	CTGCAG	37
+New England Biolabs	PvuI	CGATCG	37
+New England Biolabs	PvuI-HF®	CGATCG	37
+New England Biolabs	PvuII	CAGCTG	37
+New England Biolabs	PvuII-HF®	CAGCTG	37
+New England Biolabs	RsaI	GTAC	37
+New England Biolabs	RsrII	CGGWCCG	37
+New England Biolabs	SacI	GAGCTC	37
+New England Biolabs	SacI-HF®	GAGCTC	37
+New England Biolabs	SacII	CCGCGG	37
+New England Biolabs	SalI	GTCGAC	37
+New England Biolabs	SalI-HF®	GTCGAC	37
+New England Biolabs	SapI	GCTCTTC	37
+New England Biolabs	Sau3AI	GATC	37
+New England Biolabs	Sau96I	GGNCC	37
+New England Biolabs	SbfI	CCTGCAGG	37
+New England Biolabs	SbfI-HF®	CCTGCAGG	37
+New England Biolabs	ScaI	AGTACT	37
+New England Biolabs	ScaI-HF®	AGTACT	37
+New England Biolabs	ScrFI	CCNGG	37
+New England Biolabs	SexAI	ACCWGGT	37
+New England Biolabs	SfaNI	GCATC	37
+New England Biolabs	SfcI	CTRYAG	37
+New England Biolabs	SfiI	GGCCNNNNNGGCC	50
+New England Biolabs	SfoI	GGCGCC	37
+New England Biolabs	SgrAI	CRCCGGYG	37
+New England Biolabs	SmaI	CCCGGG	37
+New England Biolabs	SmlI	CTYRAG	55
+New England Biolabs	SnaBI	TACGTA	37
+New England Biolabs	SpeI	ACTAGT	37
+New England Biolabs	SpeI-HF®	ACTAGT	37
+New England Biolabs	SphI	GCATGC	37
+New England Biolabs	SphI-HF®	GCATGC	37
+New England Biolabs	SrfI	GCCCGGGC	37
+New England Biolabs	SspI	AATATT	37
+New England Biolabs	SspI-HF®	AATATT	37
+New England Biolabs	StuI	AGGCCT	37
+New England Biolabs	StyD4I	CCNGG	37
+New England Biolabs	StyI	CCWWGG	37
+New England Biolabs	StyI-HF®	CCWWGG	37
+New England Biolabs	SwaI	ATTTAAAT	25
+New England Biolabs	TaqI	TCGA	65
+New England Biolabs	TaqI-v2	TCGA	37
+New England Biolabs	TaqαI	TCGA	65
+New England Biolabs	TfiI	GAWTC	65
+New England Biolabs	TseI	GCWGC	65
+New England Biolabs	Tsp45I	GTSAC	65
+New England Biolabs	Tsp509I	AATT	65
+New England Biolabs	TspMI	CCCGGG	75
+New England Biolabs	TspRI	CASTG	65
+New England Biolabs	Tth111I	GACNNNGTC	65
+New England Biolabs	WarmStart® Nt.BstNBI	GAGTC	37
+New England Biolabs	XbaI	TCTAGA	37
+New England Biolabs	XcmI	CCANNNNNNNNNTGG	37
+New England Biolabs	XhoI	CTCGAG	37
+New England Biolabs	XmaI	CCCGGG	37
+New England Biolabs	XmnI	GAANNNNTTC	37
+New England Biolabs	ZraI	GACGTC	37
+Nippon Gene Co.	AccI	GTMKAC	37
+Nippon Gene Co.	AccII	CGCG	37
+Nippon Gene Co.	AccIII	TCCGGA	65
+Nippon Gene Co.	AcyI	GRCGYC	50
+Nippon Gene Co.	AflII	CTTAAG	37
+Nippon Gene Co.	AgeI	ACCGGT	37
+Nippon Gene Co.	AluI	AGCT	37
+Nippon Gene Co.	Alw44I	GTGCAC	37
+Nippon Gene Co.	ApaI	GGGCCC	37
+Nippon Gene Co.	AseI	ATTAAT	37
+Nippon Gene Co.	AvaI	CYCGRG	37
+Nippon Gene Co.	AvaII	GGWCC	37
+Nippon Gene Co.	AxyI	CCTNAGG	37
+Nippon Gene Co.	BalI	TGGCCA	37
+Nippon Gene Co.	BamHI	GGATCC	37
+Nippon Gene Co.	BclI	TGATCA	50
+Nippon Gene Co.	BglI	GCCNNNNNGGC	37
+Nippon Gene Co.	BglII	AGATCT	37
+Nippon Gene Co.	BsmI	GAATGC	65
+Nippon Gene Co.	Bsp1286I	GDGCHC	37
+Nippon Gene Co.	BssHII	GCGCGC	50
+Nippon Gene Co.	BstEII	GGTNACC	60
+Nippon Gene Co.	BstXI	CCANNNNNNTGG	50
+Nippon Gene Co.	DraI	TTTAAA	37
+Nippon Gene Co.	EcoO109I	RGGNCCY	37
+Nippon Gene Co.	EcoRI	GAATTC	37
+Nippon Gene Co.	EcoRII	CCWGG	37
+Nippon Gene Co.	EcoRV	GATATC	37
+Nippon Gene Co.	EcoT38I	GRGCYC	37
+Nippon Gene Co.	FokI	GGATG	37
+Nippon Gene Co.	FspI	TGCGCA	37
+Nippon Gene Co.	HaeII	RGCGCY	37
+Nippon Gene Co.	HaeIII	GGCC	37
+Nippon Gene Co.	HhaI	GCGC	37
+Nippon Gene Co.	HincII	GTYRAC	37
+Nippon Gene Co.	HindIII	AAGCTT	37
+Nippon Gene Co.	HinfI	GANTC	37
+Nippon Gene Co.	HpaI	GTTAAC	37
+Nippon Gene Co.	KpnI	GGTACC	37
+Nippon Gene Co.	MboII	GAAGA	37
+Nippon Gene Co.	MluI	ACGCGT	37
+Nippon Gene Co.	MspI	CCGG	37
+Nippon Gene Co.	NarI	GGCGCC	37
+Nippon Gene Co.	NciI	CCSGG	37
+Nippon Gene Co.	NcoI	CCATGG	37
+Nippon Gene Co.	NdeI	CATATG	37
+Nippon Gene Co.	NdeII	GATC	37
+Nippon Gene Co.	NheI	GCTAGC	37
+Nippon Gene Co.	NotI	GCGGCCGC	37
+Nippon Gene Co.	NruI	TCGCGA	37
+Nippon Gene Co.	NsiI	ATGCAT	37
+Nippon Gene Co.	NspV	TTCGAA	37
+Nippon Gene Co.	PstI	CTGCAG	37
+Nippon Gene Co.	PvuII	CAGCTG	37
+Nippon Gene Co.	RsaI	GTAC	37
+Nippon Gene Co.	SacI	GAGCTC	37
+Nippon Gene Co.	SacII	CCGCGG	37
+Nippon Gene Co.	SalI	GTCGAC	37
+Nippon Gene Co.	Sau3AI	GATC	37
+Nippon Gene Co.	Sau96I	GGNCC	37
+Nippon Gene Co.	ScaI	AGTACT	37
+Nippon Gene Co.	ScrFI	CCNGG	37
+Nippon Gene Co.	SfiI	GGCCNNNNNGGCC	50
+Nippon Gene Co.	SmaI	CCCGGG	30
+Nippon Gene Co.	SpeI	ACTAGT	37
+Nippon Gene Co.	SphI	GCATGC	37
+Nippon Gene Co.	SspI	AATATT	37
+Nippon Gene Co.	StuI	AGGCCT	37
+Nippon Gene Co.	StyI	CCWWGG	37
+Nippon Gene Co.	SwaI	ATTTAAAT	25
+Nippon Gene Co.	TaqI	TCGA	65
+Nippon Gene Co.	XbaI	TCTAGA	37
+Nippon Gene Co.	XhoI	CTCGAG	37
+Promega	AatII	GACGTC	37
+Promega	Acc65I	GGTACC	37
+Promega	AccB7I	CCANNNNNTGG	37
+Promega	AccI	GTMKAC	37
+Promega	AccIII	TCCGGA	65
+Promega	AgeI	ACCGGT	37
+Promega	AluI	AGCT	37
+Promega	Alw26I	GTCTC	37
+Promega	Alw44I	GTGCAC	37
+Promega	ApaI	GGGCCC	37
+Promega	AvaI	CYCGRG	37
+Promega	AvaII	GGWCC	37
+Promega	BalI	TGGCCA	37
+Promega	BamHI	GGATCC	37
+Promega	BanI	GGYRCC	50
+Promega	BanII	GRGCYC	37
+Promega	BbuI	GCATGC	37
+Promega	BclI	TGATCA	50
+Promega	BglI	GCCNNNNNGGC	37
+Promega	BglII	AGATCT	37
+Promega	BsaMI	GAATGC	65
+Promega	Bsp1286I	GDGCHC	37
+Promega	BsrSI	ACTGG	65
+Promega	BssHII	GCGCGC	50
+Promega	Bst98I	CTTAAG	37
+Promega	BstEII	GGTNACC	60
+Promega	BstOI	CCWGG	60
+Promega	BstXI	CCANNNNNNTGG	50
+Promega	BstZI	CGGCCG	50
+Promega	Bsu36I	CCTNAGG	37
+Promega	CfoI	GCGC	37
+Promega	ClaI	ATCGAT	37
+Promega	Csp45I	TTCGAA	37
+Promega	CspI	CGGWCCG	30
+Promega	DdeI	CTNAG	37
+Promega	DpnI	GATC	37
+Promega	DraI	TTTAAA	37
+Promega	EclHKI	GACNNNNNGTC	37
+Promega	Eco47III	AGCGCT	37
+Promega	EcoICRI	GAGCTC	37
+Promega	EcoRI	GAATTC	37
+Promega	EcoRV	GATATC	37
+Promega	FokI	GGATG	37
+Promega	HaeII	RGCGCY	37
+Promega	HaeIII	GGCC	37
+Promega	HhaI	GCGC	37
+Promega	HincII	GTYRAC	37
+Promega	HindIII	AAGCTT	37
+Promega	HinfI	GANTC	37
+Promega	HpaI	GTTAAC	37
+Promega	HpaII	CCGG	37
+Promega	Hsp92I	GRCGYC	37
+Promega	Hsp92II	CATG	37
+Promega	I-PpoI	CTCTCTTAAGGTAGC	37
+Promega	KpnI	GGTACC	37
+Promega	MboI	GATC	37
+Promega	MboII	GAAGA	37
+Promega	MluI	ACGCGT	37
+Promega	MspA1I	CMGCKG	37
+Promega	MspI	CCGG	37
+Promega	NaeI	GCCGGC	37
+Promega	NarI	GGCGCC	37
+Promega	NciI	CCSGG	37
+Promega	NcoI	CCATGG	37
+Promega	NdeI	CATATG	37
+Promega	NdeII	GATC	37
+Promega	NgoMIV	GCCGGC	37
+Promega	NheI	GCTAGC	37
+Promega	NotI	GCGGCCGC	37
+Promega	NruI	TCGCGA	37
+Promega	NsiI	ATGCAT	37
+Promega	PstI	CTGCAG	37
+Promega	PvuI	CGATCG	37
+Promega	PvuII	CAGCTG	37
+Promega	RsaI	GTAC	37
+Promega	SacI	GAGCTC	37
+Promega	SacII	CCGCGG	37
+Promega	SalI	GTCGAC	37
+Promega	Sau3AI	GATC	37
+Promega	ScaI	AGTACT	37
+Promega	SfiI	GGCCNNNNNGGCC	50
+Promega	SgfI	GCGATCGC	37
+Promega	SinI	GGWCC	37
+Promega	SmaI	CCCGGG	25
+Promega	SnaBI	TACGTA	37
+Promega	SpeI	ACTAGT	37
+Promega	SphI	GCATGC	37
+Promega	SspI	AATATT	37
+Promega	StuI	AGGCCT	37
+Promega	StyI	CCWWGG	37
+Promega	TaqI	TCGA	65
+Promega	Tru9I	TTAA	65
+Promega	Tth111I	GACNNNGTC	65
+Promega	VspI	ATTAAT	37
+Promega	XbaI	TCTAGA	37
+Promega	XhoI	CTCGAG	37
+Promega	XhoII	RGATCY	37
+Promega	XmaI	CCCGGG	37
+Promega	XmnI	GAANNNNTTC	37
+Roche	AatII	GACGTC	37
+Roche	AccI	GTMKAC	37
+Roche	AcsI	RAATTY	50
+Roche	AcyI	GRCGYC	50
+Roche	AflIII	ACRYGT	37
+Roche	AluI	AGCT	37
+Roche	Alw44I	GTGCAC	37
+Roche	ApaI	GGGCCC	30
+Roche	Asp700I	GAANNNNTTC	37
+Roche	Asp718I	GGTACC	37
+Roche	AspEI	GACNNNNNGTC	37
+Roche	AspI	GACNNNGTC	37
+Roche	AvaI	CYCGRG	37
+Roche	AvaII	GGWCC	37
+Roche	AviII	TGCGCA	37
+Roche	BamHI	GGATCC	37
+Roche	BanI	GGYRCC	37
+Roche	BanII	GRGCYC	37
+Roche	BbrPI	CACGTG	37
+Roche	BclI	TGATCA	50
+Roche	BfrI	CTTAAG	37
+Roche	BglI	GCCNNNNNGGC	37
+Roche	BglII	AGATCT	37
+Roche	BlnI	CCTAGG	37
+Roche	BmyI	GDGCHC	37
+Roche	BpuAI	GAAGAC	37
+Roche	BseAI	TCCGGA	55
+Roche	BsiWI	CGTACG	55
+Roche	BsiYI	CCNNNNNNNGG	55
+Roche	BsmI	GAATGC	65
+Roche	BspLU11I	ACATGT	48
+Roche	BssHII	GCGCGC	50
+Roche	Bst1107I	GTATAC	37
+Roche	BstEII	GGTNACC	60
+Roche	BstXI	CCANNNNNNTGG	45
+Roche	CelII	GCTNAGC	37
+Roche	CfoI	GCGC	37
+Roche	ClaI	ATCGAT	37
+Roche	DdeI	CTNAG	37
+Roche	DpnI	GATC	37
+Roche	DraI	TTTAAA	37
+Roche	DraII	RGGNCCY	37
+Roche	DraIII	CACNNNGTG	37
+Roche	EaeI	YGGCCR	37
+Roche	EclXI	CGGCCG	37
+Roche	Eco47III	AGCGCT	37
+Roche	EcoRI	GAATTC	37
+Roche	EcoRII	CCWGG	37
+Roche	EcoRV	GATATC	37
+Roche	FokI	GGATG	37
+Roche	HaeII	RGCGCY	37
+Roche	HaeIII	GGCC	37
+Roche	HindII	GTYRAC	37
+Roche	HindIII	AAGCTT	37
+Roche	HinfI	GANTC	37
+Roche	HpaI	GTTAAC	37
+Roche	HpaII	CCGG	37
+Roche	I-SceI	TAGGGATAACAGGGTAAT	37
+Roche	ItaI	GCNGC	37
+Roche	KpnI	GGTACC	37
+Roche	Ksp632I	CTCTTC	37
+Roche	KspI	CCGCGG	37
+Roche	MaeI	CTAG	45
+Roche	MaeII	ACGT	50
+Roche	MaeIII	GTNAC	55
+Roche	MamI	GATNNNNATC	37
+Roche	MluI	ACGCGT	37
+Roche	MluNI	TGGCCA	37
+Roche	MroI	TCCGGA	37
+Roche	MspI	CCGG	37
+Roche	MunI	CAATTG	37
+Roche	MvaI	CCWGG	37
+Roche	MvnI	CGCG	37
+Roche	NaeI	GCCGGC	37
+Roche	NarI	GGCGCC	37
+Roche	NcoI	CCATGG	37
+Roche	NdeI	CATATG	37
+Roche	NdeII	GATC	37
+Roche	NheI	GCTAGC	37
+Roche	NotI	GCGGCCGC	37
+Roche	NruI	TCGCGA	37
+Roche	NsiI	ATGCAT	37
+Roche	NspI	RCATGY	37
+Roche	PinAI	ACCGGT	37
+Roche	Psp1406I	AACGTT	37
+Roche	PstI	CTGCAG	37
+Roche	PvuI	CGATCG	37
+Roche	PvuII	CAGCTG	37
+Roche	RcaI	TCATGA	37
+Roche	RsaI	GTAC	37
+Roche	RsrII	CGGWCCG	37
+Roche	SacI	GAGCTC	37
+Roche	SalI	GTCGAC	37
+Roche	Sau3AI	GATC	37
+Roche	Sau96I	GGNCC	37
+Roche	SauI	CCTNAGG	37
+Roche	ScaI	AGTACT	37
+Roche	ScrFI	CCNGG	37
+Roche	SexAI	ACCWGGT	37
+Roche	SfiI	GGCCNNNNNGGCC	50
+Roche	SfuI	TTCGAA	37
+Roche	SgrAI	CRCCGGYG	37
+Roche	SmaI	CCCGGG	25
+Roche	SnaBI	TACGTA	37
+Roche	SpeI	ACTAGT	37
+Roche	SphI	GCATGC	37
+Roche	SspBI	TGTACA	37
+Roche	SspI	AATATT	37
+Roche	StuI	AGGCCT	37
+Roche	StyI	CCWWGG	37
+Roche	SwaI	ATTTAAAT	25
+Roche	TaqI	TCGA	65
+Roche	Tru9I	TTAA	65
+Roche	Van91I	CCANNNNNTGG	37
+Roche	XbaI	TCTAGA	37
+Roche	XhoI	CTCGAG	37
+Roche	XhoII	RGATCY	37
+Roche	XmaCI	CCCGGG	37
+SibEnzyme	AatII	GACGTC	37
+SibEnzyme	AbsI	CCTCGAGG	37
+SibEnzyme	Acc16I	TGCGCA	37
+SibEnzyme	Acc36I	ACCTGC	37
+SibEnzyme	Acc65I	GGTACC	37
+SibEnzyme	AccB1I	GGYRCC	37
+SibEnzyme	AccB7I	CCANNNNNTGG	37
+SibEnzyme	AccBSI	CCGCTC	37
+SibEnzyme	AclI	AACGTT	37
+SibEnzyme	AclWI	GGATC	37
+SibEnzyme	AcoI	YGGCCR	37
+SibEnzyme	AcsI	RAATTY	50
+SibEnzyme	AcuI	CTGAAG	37
+SibEnzyme	AfeI	AGCGCT	37
+SibEnzyme	AgsI	TTSAA	37
+SibEnzyme	AhlI	ACTAGT	37
+SibEnzyme	AjnI	CCWGG	55
+SibEnzyme	AleI	CACNNNNGTG	37
+SibEnzyme	AluBI	AGCT	37
+SibEnzyme	AluI	AGCT	37
+SibEnzyme	Ama87I	CYCGRG	37
+SibEnzyme	ApaI	GGGCCC	37
+SibEnzyme	ArsI	GACNNNNNNTTYG	30
+SibEnzyme	AsiGI	ACCGGT	37
+SibEnzyme	AsiSI	GCGATCGC	37
+SibEnzyme	AspA2I	CCTAGG	37
+SibEnzyme	AspLEI	GCGC	37
+SibEnzyme	AspS9I	GGNCC	37
+SibEnzyme	AsuC2I	CCSGG	37
+SibEnzyme	AsuHPI	GGTGA	37
+SibEnzyme	AsuNHI	GCTAGC	37
+SibEnzyme	BamHI	GGATCC	37
+SibEnzyme	BarI	GAAGNNNNNNTAC	37
+SibEnzyme	Bbv12I	GWGCWC	37
+SibEnzyme	BglI	GCCNNNNNGGC	37
+SibEnzyme	BglII	AGATCT	37
+SibEnzyme	BisI	GCNGC	37
+SibEnzyme	BlsI	GCNGC	37
+SibEnzyme	Bme18I	GGWCC	37
+SibEnzyme	BmtI	GCTAGC	37
+SibEnzyme	BmuI	ACTGGG	37
+SibEnzyme	BpmI	CTGGAG	37
+SibEnzyme	Bpu10I	CCTNAGC	37
+SibEnzyme	Bpu14I	TTCGAA	37
+SibEnzyme	Bsa29I	ATCGAT	37
+SibEnzyme	Bsc4I	CCNNNNNNNGG	55
+SibEnzyme	Bse118I	RCCGGY	65
+SibEnzyme	Bse1I	ACTGG	65
+SibEnzyme	Bse21I	CCTNAGG	37
+SibEnzyme	Bse3DI	GCAATG	60
+SibEnzyme	Bse8I	GATNNNNATC	60
+SibEnzyme	BsePI	GCGCGC	50
+SibEnzyme	BseX3I	CGGCCG	50
+SibEnzyme	BslFI	GGGAC	37
+SibEnzyme	Bso31I	GGTCTC	55
+SibEnzyme	Bsp13I	TCCGGA	50
+SibEnzyme	Bsp1720I	GCTNAGC	37
+SibEnzyme	Bsp19I	CCATGG	37
+SibEnzyme	BspACI	CCGC	37
+SibEnzyme	BspFNI	CGCG	37
+SibEnzyme	BssECI	CCNNGG	60
+SibEnzyme	BssNAI	GTATAC	37
+SibEnzyme	BssT1I	CCWWGG	60
+SibEnzyme	Bst2BI	CACGAG	60
+SibEnzyme	Bst2UI	CCWGG	60
+SibEnzyme	Bst4CI	ACNGT	65
+SibEnzyme	Bst6I	CTCTTC	65
+SibEnzyme	BstACI	GRCGYC	37
+SibEnzyme	BstAFI	CTTAAG	55
+SibEnzyme	BstAPI	GCANNNNNTGC	60
+SibEnzyme	BstAUI	TGTACA	37
+SibEnzyme	BstBAI	YACGTR	65
+SibEnzyme	BstC8I	GCNNGC	55
+SibEnzyme	BstDEI	CTNAG	60
+SibEnzyme	BstDSI	CCRYGG	65
+SibEnzyme	BstENI	CCTNNNNNAGG	65
+SibEnzyme	BstF5I	GGATG	65
+SibEnzyme	BstFNI	CGCG	60
+SibEnzyme	BstH2I	RGCGCY	65
+SibEnzyme	BstHHI	GCGC	50
+SibEnzyme	BstKTI	GATC	37
+SibEnzyme	BstMAI	GTCTC	55
+SibEnzyme	BstMBI	GATC	65
+SibEnzyme	BstMCI	CGRYCG	50
+SibEnzyme	BstMWI	GCNNNNNNNGC	55
+SibEnzyme	BstNSI	RCATGY	37
+SibEnzyme	BstPAI	GACNNNNGTC	65
+SibEnzyme	BstSCI	CCNGG	55
+SibEnzyme	BstSFI	CTRYAG	60
+SibEnzyme	BstSLI	GKGCMC	55
+SibEnzyme	BstSNI	TACGTA	37
+SibEnzyme	BstV1I	GCAGC	55
+SibEnzyme	BstV2I	GAAGAC	55
+SibEnzyme	BstX2I	RGATCY	60
+SibEnzyme	BstXI	CCANNNNNNTGG	37
+SibEnzyme	BsuI	GTATCC	37
+SibEnzyme	BsuRI	GGCC	37
+SibEnzyme	BtrI	CACGTC	60
+SibEnzyme	CciI	TCATGA	55
+SibEnzyme	CciNI	GCGGCCGC	37
+SibEnzyme	DraI	TTTAAA	37
+SibEnzyme	DraIII	CACNNNGTG	37
+SibEnzyme	DriI	GACNNNNNGTC	37
+SibEnzyme	DseDI	GACNNNNNNGTC	37
+SibEnzyme	EcoICRI	GAGCTC	37
+SibEnzyme	EcoRI	GAATTC	37
+SibEnzyme	EcoRV	GATATC	37
+SibEnzyme	EgeI	GGCGCC	37
+SibEnzyme	ErhI	CCWWGG	37
+SibEnzyme	FaeI	CATG	37
+SibEnzyme	FaiI	YATR	50
+SibEnzyme	FalI	AAGNNNNNCTT	37
+SibEnzyme	FatI	CATG	55
+SibEnzyme	FauI	CCCGC	55
+SibEnzyme	FauNDI	CATATG	37
+SibEnzyme	FblI	GTMKAC	55
+SibEnzyme	FokI	GGATG	37
+SibEnzyme	FriOI	GRGCYC	37
+SibEnzyme	Fsp4HI	GCNGC	37
+SibEnzyme	GlaI	GCGC	30
+SibEnzyme	GluI	GCNGC	37
+SibEnzyme	GsaI	CCCAGC	70
+SibEnzyme	HaeIII	GGCC	37
+SibEnzyme	HgaI	GACGC	37
+SibEnzyme	HindII	GTYRAC	37
+SibEnzyme	HindIII	AAGCTT	37
+SibEnzyme	HinfI	GANTC	37
+SibEnzyme	HpaI	GTTAAC	37
+SibEnzyme	HpaII	CCGG	37
+SibEnzyme	HpySE526I	ACGT	37
+SibEnzyme	HspAI	GCGC	37
+SibEnzyme	KpnI	GGTACC	37
+SibEnzyme	KroNI	GCCGGC	37
+SibEnzyme	Ksp22I	TGATCA	37
+SibEnzyme	Kzo9I	GATC	37
+SibEnzyme	LmnI	GCTCC	37
+SibEnzyme	MabI	ACCWGGT	37
+SibEnzyme	MalI	GATC	37
+SibEnzyme	MboII	GAAGA	37
+SibEnzyme	MfeI	CAATTG	37
+SibEnzyme	MhlI	GDGCHC	37
+SibEnzyme	MluI	ACGCGT	37
+SibEnzyme	Mly113I	GGCGCC	37
+SibEnzyme	MnlI	CCTC	37
+SibEnzyme	Mox20I	TGGCCA	37
+SibEnzyme	MroNI	GCCGGC	37
+SibEnzyme	MroXI	GAANNNNTTC	37
+SibEnzyme	Msp20I	TGGCCA	37
+SibEnzyme	MspA1I	CMGCKG	37
+SibEnzyme	MspI	CCGG	37
+SibEnzyme	MspR9I	CCNGG	37
+SibEnzyme	NruI	TCGCGA	37
+SibEnzyme	PalAI	GGCGCGCC	37
+SibEnzyme	PceI	AGGCCT	50
+SibEnzyme	PciI	ACATGT	37
+SibEnzyme	PciSI	GCTCTTC	37
+SibEnzyme	PctI	GAATGC	37
+SibEnzyme	Ple19I	CGATCG	37
+SibEnzyme	PpsI	GAGTC	37
+SibEnzyme	PsiI	TTATAA	37
+SibEnzyme	Psp124BI	GAGCTC	37
+SibEnzyme	Psp6I	CCWGG	55
+SibEnzyme	PspCI	CACGTG	37
+SibEnzyme	PspEI	GGTNACC	37
+SibEnzyme	PspLI	CGTACG	37
+SibEnzyme	PspN4I	GGNNCC	37
+SibEnzyme	PspOMI	GGGCCC	37
+SibEnzyme	PspPPI	RGGWCCY	37
+SibEnzyme	PspXI	VCTCGAGB	37
+SibEnzyme	PsrI	GAACNNNNNNTAC	30
+SibEnzyme	PstI	CTGCAG	37
+SibEnzyme	PstNI	CAGNNNCTG	37
+SibEnzyme	PvuII	CAGCTG	37
+SibEnzyme	RgaI	GCGATCGC	55
+SibEnzyme	RigI	GGCCGGCC	37
+SibEnzyme	RsaI	GTAC	37
+SibEnzyme	RsaNI	GTAC	37
+SibEnzyme	Rsr2I	CGGWCCG	37
+SibEnzyme	SalI	GTCGAC	37
+SibEnzyme	SbfI	CCTGCAGG	37
+SibEnzyme	SetI	ASST	55
+SibEnzyme	SfaNI	GCATC	37
+SibEnzyme	SfiI	GGCCNNNNNGGCC	50
+SibEnzyme	Sfr274I	CTCGAG	50
+SibEnzyme	Sfr303I	CCGCGG	37
+SibEnzyme	SmaI	CCCGGG	25
+SibEnzyme	SmiI	ATTTAAAT	37
+SibEnzyme	SmiMI	CAYNNNNRTG	37
+SibEnzyme	SphI	GCATGC	37
+SibEnzyme	Sse9I	AATT	55
+SibEnzyme	SspI	AATATT	37
+SibEnzyme	SspMI	CTAG	55
+SibEnzyme	TaqI	TCGA	65
+SibEnzyme	Tru9I	TTAA	65
+SibEnzyme	TseFI	GTSAC	65
+SibEnzyme	Tth111I	GACNNNGTC	65
+SibEnzyme	VneI	GTGCAC	37
+SibEnzyme	VspI	ATTAAT	37
+SibEnzyme	XbaI	TCTAGA	37
+SibEnzyme	XmaI	CCCGGG	37
+SibEnzyme	ZraI	GACGTC	37
+SibEnzyme	ZrmI	AGTACT	37
+SibEnzyme	Zsp2I	ATGCAT	37
+TaKaRa Bio (Clontech)	AatII	GACGTC	37
+TaKaRa Bio (Clontech)	AccI	GTMKAC	37
+TaKaRa Bio (Clontech)	AccII	CGCG	37
+TaKaRa Bio (Clontech)	AccIII	TCCGGA	60
+TaKaRa Bio (Clontech)	AfaI	GTAC	37
+TaKaRa Bio (Clontech)	AflII	CTTAAG	37
+TaKaRa Bio (Clontech)	AluI	AGCT	37
+TaKaRa Bio (Clontech)	Aor13HI	TCCGGA	55
+TaKaRa Bio (Clontech)	Aor51HI	AGCGCT	37
+TaKaRa Bio (Clontech)	ApaI	GGGCCC	37
+TaKaRa Bio (Clontech)	ApaLI	GTGCAC	37
+TaKaRa Bio (Clontech)	AvaII	GGWCC	37
+TaKaRa Bio (Clontech)	BalI	TGGCCA	37
+TaKaRa Bio (Clontech)	BamHI	GGATCC	30
+TaKaRa Bio (Clontech)	BanII	GRGCYC	37
+TaKaRa Bio (Clontech)	BciT130I	CCWGG	37
+TaKaRa Bio (Clontech)	BcnI	CCSGG	37
+TaKaRa Bio (Clontech)	BglI	GCCNNNNNGGC	37
+TaKaRa Bio (Clontech)	BglII	AGATCT	37
+TaKaRa Bio (Clontech)	BlnI	CCTAGG	37
+TaKaRa Bio (Clontech)	BmeT110I	CYCGRG	37
+TaKaRa Bio (Clontech)	BmgT120I	GGNCC	37
+TaKaRa Bio (Clontech)	Bpu1102I	GCTNAGC	37
+TaKaRa Bio (Clontech)	Bsp1286I	GDGCHC	30
+TaKaRa Bio (Clontech)	Bsp1407I	TGTACA	37
+TaKaRa Bio (Clontech)	BspT104I	TTCGAA	37
+TaKaRa Bio (Clontech)	BspT107I	GGYRCC	37
+TaKaRa Bio (Clontech)	BssHII	GCGCGC	50
+TaKaRa Bio (Clontech)	Bst1107I	GTATAC	37
+TaKaRa Bio (Clontech)	BstPI	GGTNACC	60
+TaKaRa Bio (Clontech)	BstXI	CCANNNNNNTGG	45
+TaKaRa Bio (Clontech)	Cfr10I	RCCGGY	37
+TaKaRa Bio (Clontech)	ClaI	ATCGAT	30
+TaKaRa Bio (Clontech)	CpoI	CGGWCCG	30
+TaKaRa Bio (Clontech)	DdeI	CTNAG	37
+TaKaRa Bio (Clontech)	DpnI	GATC	37
+TaKaRa Bio (Clontech)	DraI	TTTAAA	37
+TaKaRa Bio (Clontech)	EaeI	YGGCCR	37
+TaKaRa Bio (Clontech)	Eam1105I	GACNNNNNGTC	37
+TaKaRa Bio (Clontech)	Eco52I	CGGCCG	37
+TaKaRa Bio (Clontech)	Eco81I	CCTNAGG	37
+TaKaRa Bio (Clontech)	EcoO109I	RGGNCCY	37
+TaKaRa Bio (Clontech)	EcoO65I	GGTNACC	37
+TaKaRa Bio (Clontech)	EcoRI	GAATTC	37
+TaKaRa Bio (Clontech)	EcoRV	GATATC	37
+TaKaRa Bio (Clontech)	EcoT14I	CCWWGG	37
+TaKaRa Bio (Clontech)	EcoT22I	ATGCAT	37
+TaKaRa Bio (Clontech)	FbaI	TGATCA	37
+TaKaRa Bio (Clontech)	FokI	GGATG	37
+TaKaRa Bio (Clontech)	FseI	GGCCGGCC	30
+TaKaRa Bio (Clontech)	HaeII	RGCGCY	37
+TaKaRa Bio (Clontech)	HaeIII	GGCC	37
+TaKaRa Bio (Clontech)	HapII	CCGG	37
+TaKaRa Bio (Clontech)	HhaI	GCGC	37
+TaKaRa Bio (Clontech)	Hin1I	GRCGYC	37
+TaKaRa Bio (Clontech)	HincII	GTYRAC	37
+TaKaRa Bio (Clontech)	HindIII	AAGCTT	37
+TaKaRa Bio (Clontech)	HinfI	GANTC	37
+TaKaRa Bio (Clontech)	HpaI	GTTAAC	37
+TaKaRa Bio (Clontech)	KpnI	GGTACC	37
+TaKaRa Bio (Clontech)	MboI	GATC	37
+TaKaRa Bio (Clontech)	MboII	GAAGA	37
+TaKaRa Bio (Clontech)	MflI	RGATCY	37
+TaKaRa Bio (Clontech)	MluI	ACGCGT	37
+TaKaRa Bio (Clontech)	MspI	CCGG	37
+TaKaRa Bio (Clontech)	MunI	CAATTG	37
+TaKaRa Bio (Clontech)	MvaI	CCWGG	37
+TaKaRa Bio (Clontech)	NaeI	GCCGGC	37
+TaKaRa Bio (Clontech)	NcoI	CCATGG	37
+TaKaRa Bio (Clontech)	NdeI	CATATG	37
+TaKaRa Bio (Clontech)	NheI	GCTAGC	37
+TaKaRa Bio (Clontech)	NotI	GCGGCCGC	37
+TaKaRa Bio (Clontech)	NruI	TCGCGA	37
+TaKaRa Bio (Clontech)	NsbI	TGCGCA	37
+TaKaRa Bio (Clontech)	PmaCI	CACGTG	37
+TaKaRa Bio (Clontech)	PshAI	GACNNNNGTC	37
+TaKaRa Bio (Clontech)	PshBI	ATTAAT	37
+TaKaRa Bio (Clontech)	Psp1406I	AACGTT	37
+TaKaRa Bio (Clontech)	PstI	CTGCAG	37
+TaKaRa Bio (Clontech)	PvuI	CGATCG	37
+TaKaRa Bio (Clontech)	PvuII	CAGCTG	37
+TaKaRa Bio (Clontech)	QuickCut™ AfaI	GTAC	37
+TaKaRa Bio (Clontech)	QuickCut™ AflII	CTTAAG	37
+TaKaRa Bio (Clontech)	QuickCut™ AluI	AGCT	37
+TaKaRa Bio (Clontech)	QuickCut™ ApaI	GGGCCC	37
+TaKaRa Bio (Clontech)	QuickCut™ BamHI	GGATCC	30
+TaKaRa Bio (Clontech)	QuickCut™ BglII	AGATCT	37
+TaKaRa Bio (Clontech)	QuickCut™ BlnI	CCTAGG	37
+TaKaRa Bio (Clontech)	QuickCut™ ClaI	ATCGAT	30
+TaKaRa Bio (Clontech)	QuickCut™ DpnI	GATC	37
+TaKaRa Bio (Clontech)	QuickCut™ DraI	TTTAAA	37
+TaKaRa Bio (Clontech)	QuickCut™ EcoRI	GAATTC	37
+TaKaRa Bio (Clontech)	QuickCut™ EcoRV	GATATC	37
+TaKaRa Bio (Clontech)	QuickCut™ HaeIII	GGCC	37
+TaKaRa Bio (Clontech)	QuickCut™ HhaI	GCGC	37
+TaKaRa Bio (Clontech)	QuickCut™ HindIII	AAGCTT	37
+TaKaRa Bio (Clontech)	QuickCut™ HinfI	GANTC	37
+TaKaRa Bio (Clontech)	QuickCut™ HpaI	GTTAAC	37
+TaKaRa Bio (Clontech)	QuickCut™ KpnI	GGTACC	37
+TaKaRa Bio (Clontech)	QuickCut™ MluI	ACGCGT	37
+TaKaRa Bio (Clontech)	QuickCut™ NcoI	CCATGG	37
+TaKaRa Bio (Clontech)	QuickCut™ NdeI	CATATG	37
+TaKaRa Bio (Clontech)	QuickCut™ NheI	GCTAGC	37
+TaKaRa Bio (Clontech)	QuickCut™ NotI	GCGGCCGC	37
+TaKaRa Bio (Clontech)	QuickCut™ PstI	CTGCAG	37
+TaKaRa Bio (Clontech)	QuickCut™ PvuI	CGATCG	37
+TaKaRa Bio (Clontech)	QuickCut™ PvuII	CAGCTG	37
+TaKaRa Bio (Clontech)	QuickCut™ SacI	GAGCTC	37
+TaKaRa Bio (Clontech)	QuickCut™ SmaI	CCCGGG	30
+TaKaRa Bio (Clontech)	QuickCut™ SnaBI	TACGTA	37
+TaKaRa Bio (Clontech)	QuickCut™ SpeI	ACTAGT	37
+TaKaRa Bio (Clontech)	QuickCut™ SphI	GCATGC	37
+TaKaRa Bio (Clontech)	QuickCut™ StuI	AGGCCT	37
+TaKaRa Bio (Clontech)	QuickCut™ XbaI	TCTAGA	37
+TaKaRa Bio (Clontech)	QuickCut™ XhoI	CTCGAG	37
+TaKaRa Bio (Clontech)	RspRSII	TTAA	60
+TaKaRa Bio (Clontech)	SacI	GAGCTC	37
+TaKaRa Bio (Clontech)	SacII	CCGCGG	37
+TaKaRa Bio (Clontech)	SalI	GTCGAC	37
+TaKaRa Bio (Clontech)	Sau3AI	GATC	37
+TaKaRa Bio (Clontech)	ScaI	AGTACT	37
+TaKaRa Bio (Clontech)	SfiI	GGCCNNNNNGGCC	50
+TaKaRa Bio (Clontech)	SmaI	CCCGGG	30
+TaKaRa Bio (Clontech)	SmiI	ATTTAAAT	30
+TaKaRa Bio (Clontech)	SnaBI	TACGTA	37
+TaKaRa Bio (Clontech)	SpeI	ACTAGT	37
+TaKaRa Bio (Clontech)	SphI	GCATGC	37
+TaKaRa Bio (Clontech)	Sse8387I	CCTGCAGG	37
+TaKaRa Bio (Clontech)	SspI	AATATT	37
+TaKaRa Bio (Clontech)	StuI	AGGCCT	37
+TaKaRa Bio (Clontech)	TaqI	TCGA	65
+TaKaRa Bio (Clontech)	Tth111I	GACNNNGTC	65
+TaKaRa Bio (Clontech)	Van91I	CCANNNNNTGG	37
+TaKaRa Bio (Clontech)	VpaK11BI	GGWCC	37
+TaKaRa Bio (Clontech)	XbaI	TCTAGA	37
+TaKaRa Bio (Clontech)	XhoI	CTCGAG	37
+TaKaRa Bio (Clontech)	XspI	CTAG	37
+Thermo Fisher (Fermentas)	AanI	TTATAA	37
+Thermo Fisher (Fermentas)	AarI	CACCTGC	37
+Thermo Fisher (Fermentas)	AasI	GACNNNNNNGTC	37
+Thermo Fisher (Fermentas)	AatII	GACGTC	37
+Thermo Fisher (Fermentas)	Acc65I	GGTACC	37
+Thermo Fisher (Fermentas)	AdeI	CACNNNGTG	37
+Thermo Fisher (Fermentas)	AjiI	CACGTC	37
+Thermo Fisher (Fermentas)	AjuI	GAANNNNNNNTTGG	37
+Thermo Fisher (Fermentas)	AlfI	GCANNNNNNTGC	37
+Thermo Fisher (Fermentas)	AloI	GAACNNNNNNTCC	37
+Thermo Fisher (Fermentas)	AluI	AGCT	37
+Thermo Fisher (Fermentas)	Alw21I	GWGCWC	37
+Thermo Fisher (Fermentas)	Alw26I	GTCTC	37
+Thermo Fisher (Fermentas)	Alw44I	GTGCAC	37
+Thermo Fisher (Fermentas)	ApaI	GGGCCC	37
+Thermo Fisher (Fermentas)	BamHI	GGATCC	37
+Thermo Fisher (Fermentas)	BauI	CACGAG	37
+Thermo Fisher (Fermentas)	BclI	TGATCA	55
+Thermo Fisher (Fermentas)	BcnI	CCSGG	37
+Thermo Fisher (Fermentas)	BcuI	ACTAGT	37
+Thermo Fisher (Fermentas)	BdaI	TGANNNNNNTCA	30
+Thermo Fisher (Fermentas)	BfiI	ACTGGG	37
+Thermo Fisher (Fermentas)	BfmI	CTRYAG	37
+Thermo Fisher (Fermentas)	BfuI	GTATCC	37
+Thermo Fisher (Fermentas)	BglI	GCCNNNNNGGC	37
+Thermo Fisher (Fermentas)	BglII	AGATCT	37
+Thermo Fisher (Fermentas)	Bme1390I	CCNGG	37
+Thermo Fisher (Fermentas)	BoxI	GACNNNNGTC	37
+Thermo Fisher (Fermentas)	BpiI	GAAGAC	37
+Thermo Fisher (Fermentas)	BplI	GAGNNNNNCTC	37
+Thermo Fisher (Fermentas)	Bpu10I	CCTNAGC	37
+Thermo Fisher (Fermentas)	Bpu1102I	GCTNAGC	37
+Thermo Fisher (Fermentas)	BseDI	CCNNGG	55
+Thermo Fisher (Fermentas)	BseGI	GGATG	55
+Thermo Fisher (Fermentas)	BseJI	GATNNNNATC	65
+Thermo Fisher (Fermentas)	BseLI	CCNNNNNNNGG	55
+Thermo Fisher (Fermentas)	BseMI	GCAATG	55
+Thermo Fisher (Fermentas)	BseMII	CTCAG	55
+Thermo Fisher (Fermentas)	BseNI	ACTGG	65
+Thermo Fisher (Fermentas)	BseSI	GKGCMC	55
+Thermo Fisher (Fermentas)	BseXI	GCAGC	65
+Thermo Fisher (Fermentas)	Bsh1236I	CGCG	37
+Thermo Fisher (Fermentas)	Bsh1285I	CGRYCG	37
+Thermo Fisher (Fermentas)	BshNI	GGYRCC	37
+Thermo Fisher (Fermentas)	BshTI	ACCGGT	37
+Thermo Fisher (Fermentas)	Bsp119I	TTCGAA	37
+Thermo Fisher (Fermentas)	Bsp120I	GGGCCC	37
+Thermo Fisher (Fermentas)	Bsp1407I	TGTACA	37
+Thermo Fisher (Fermentas)	Bsp143I	GATC	37
+Thermo Fisher (Fermentas)	Bsp68I	TCGCGA	37
+Thermo Fisher (Fermentas)	BspLI	GGNNCC	37
+Thermo Fisher (Fermentas)	BspOI	GCTAGC	37
+Thermo Fisher (Fermentas)	BspPI	GGATC	55
+Thermo Fisher (Fermentas)	BspTI	CTTAAG	37
+Thermo Fisher (Fermentas)	Bst1107I	GTATAC	37
+Thermo Fisher (Fermentas)	BstXI	CCANNNNNNTGG	55
+Thermo Fisher (Fermentas)	Bsu15I	ATCGAT	37
+Thermo Fisher (Fermentas)	BsuRI	GGCC	37
+Thermo Fisher (Fermentas)	BveI	ACCTGC	37
+Thermo Fisher (Fermentas)	CaiI	CAGNNNCTG	37
+Thermo Fisher (Fermentas)	Cfr10I	RCCGGY	37
+Thermo Fisher (Fermentas)	Cfr13I	GGNCC	37
+Thermo Fisher (Fermentas)	Cfr42I	CCGCGG	37
+Thermo Fisher (Fermentas)	Cfr9I	CCCGGG	37
+Thermo Fisher (Fermentas)	CfrI	YGGCCR	37
+Thermo Fisher (Fermentas)	CpoI	CGGWCCG	37
+Thermo Fisher (Fermentas)	CseI	GACGC	37
+Thermo Fisher (Fermentas)	Csp6I	GTAC	37
+Thermo Fisher (Fermentas)	DpnI	GATC	37
+Thermo Fisher (Fermentas)	DraI	TTTAAA	37
+Thermo Fisher (Fermentas)	Eam1104I	CTCTTC	37
+Thermo Fisher (Fermentas)	Eam1105I	GACNNNNNGTC	37
+Thermo Fisher (Fermentas)	Ecl136II	GAGCTC	37
+Thermo Fisher (Fermentas)	Eco105I	TACGTA	37
+Thermo Fisher (Fermentas)	Eco130I	CCWWGG	37
+Thermo Fisher (Fermentas)	Eco147I	AGGCCT	37
+Thermo Fisher (Fermentas)	Eco24I	GRGCYC	37
+Thermo Fisher (Fermentas)	Eco31I	GGTCTC	37
+Thermo Fisher (Fermentas)	Eco32I	GATATC	37
+Thermo Fisher (Fermentas)	Eco47I	GGWCC	37
+Thermo Fisher (Fermentas)	Eco47III	AGCGCT	37
+Thermo Fisher (Fermentas)	Eco52I	CGGCCG	37
+Thermo Fisher (Fermentas)	Eco57I	CTGAAG	37
+Thermo Fisher (Fermentas)	Eco57MI	CTGRAG	37
+Thermo Fisher (Fermentas)	Eco72I	CACGTG	37
+Thermo Fisher (Fermentas)	Eco81I	CCTNAGG	37
+Thermo Fisher (Fermentas)	Eco88I	CYCGRG	37
+Thermo Fisher (Fermentas)	Eco91I	GGTNACC	37
+Thermo Fisher (Fermentas)	EcoO109I	RGGNCCY	37
+Thermo Fisher (Fermentas)	EcoRI	GAATTC	37
+Thermo Fisher (Fermentas)	EcoRII	CCWGG	37
+Thermo Fisher (Fermentas)	EheI	GGCGCC	37
+Thermo Fisher (Fermentas)	Esp3I	CGTCTC	37
+Thermo Fisher (Fermentas)	FaqI	GGGAC	37
+Thermo Fisher (Fermentas)	FastDigest® AanI	TTATAA	37
+Thermo Fisher (Fermentas)	FastDigest® AasI	GACNNNNNNGTC	37
+Thermo Fisher (Fermentas)	FastDigest® AatII	GACGTC	37
+Thermo Fisher (Fermentas)	FastDigest® Acc65I	GGTACC	37
+Thermo Fisher (Fermentas)	FastDigest® AdeI	CACNNNGTG	37
+Thermo Fisher (Fermentas)	FastDigest® AjuI	GAANNNNNNNTTGG	37
+Thermo Fisher (Fermentas)	FastDigest® AluI	AGCT	37
+Thermo Fisher (Fermentas)	FastDigest® Alw21I	GWGCWC	37
+Thermo Fisher (Fermentas)	FastDigest® Alw26I	GTCTC	37
+Thermo Fisher (Fermentas)	FastDigest® Alw44I	GTGCAC	37
+Thermo Fisher (Fermentas)	FastDigest® ApaI	GGGCCC	37
+Thermo Fisher (Fermentas)	FastDigest® BamHI	GGATCC	37
+Thermo Fisher (Fermentas)	FastDigest® BclI	TGATCA	37
+Thermo Fisher (Fermentas)	FastDigest® BcnI	CCSGG	37
+Thermo Fisher (Fermentas)	FastDigest® BcuI	ACTAGT	37
+Thermo Fisher (Fermentas)	FastDigest® BfmI	CTRYAG	37
+Thermo Fisher (Fermentas)	FastDigest® BfoI	RGCGCY	37
+Thermo Fisher (Fermentas)	FastDigest® BglI	GCCNNNNNGGC	37
+Thermo Fisher (Fermentas)	FastDigest® BglII	AGATCT	37
+Thermo Fisher (Fermentas)	FastDigest® Bme1390I	CCNGG	37
+Thermo Fisher (Fermentas)	FastDigest® BmsI	GCATC	37
+Thermo Fisher (Fermentas)	FastDigest® BoxI	GACNNNNGTC	37
+Thermo Fisher (Fermentas)	FastDigest® BpiI	GAAGAC	37
+Thermo Fisher (Fermentas)	FastDigest® BplI	GAGNNNNNCTC	37
+Thermo Fisher (Fermentas)	FastDigest® Bpu10I	CCTNAGC	37
+Thermo Fisher (Fermentas)	FastDigest® Bpu1102I	GCTNAGC	37
+Thermo Fisher (Fermentas)	FastDigest® BseDI	CCNNGG	37
+Thermo Fisher (Fermentas)	FastDigest® BseGI	GGATG	37
+Thermo Fisher (Fermentas)	FastDigest® BseJI	GATNNNNATC	65
+Thermo Fisher (Fermentas)	FastDigest® BseLI	CCNNNNNNNGG	37
+Thermo Fisher (Fermentas)	FastDigest® BseMI	GCAATG	55
+Thermo Fisher (Fermentas)	FastDigest® BseMII	CTCAG	55
+Thermo Fisher (Fermentas)	FastDigest® BseNI	ACTGG	65
+Thermo Fisher (Fermentas)	FastDigest® BseSI	GKGCMC	37
+Thermo Fisher (Fermentas)	FastDigest® BseXI	GCAGC	65
+Thermo Fisher (Fermentas)	FastDigest® Bsh1236I	CGCG	37
+Thermo Fisher (Fermentas)	FastDigest® Bsh1285I	CGRYCG	37
+Thermo Fisher (Fermentas)	FastDigest® BshNI	GGYRCC	37
+Thermo Fisher (Fermentas)	FastDigest® BshTI	ACCGGT	37
+Thermo Fisher (Fermentas)	FastDigest® Bsp119I	TTCGAA	37
+Thermo Fisher (Fermentas)	FastDigest® Bsp120I	GGGCCC	37
+Thermo Fisher (Fermentas)	FastDigest® Bsp1407I	TGTACA	37
+Thermo Fisher (Fermentas)	FastDigest® Bsp143I	GATC	37
+Thermo Fisher (Fermentas)	FastDigest® BspLI	GGNNCC	37
+Thermo Fisher (Fermentas)	FastDigest® BspOI	GCTAGC	37
+Thermo Fisher (Fermentas)	FastDigest® BspTI	CTTAAG	37
+Thermo Fisher (Fermentas)	FastDigest® Bst1107I	GTATAC	37
+Thermo Fisher (Fermentas)	FastDigest® BstXI	CCANNNNNNTGG	37
+Thermo Fisher (Fermentas)	FastDigest® Bsu15I	ATCGAT	37
+Thermo Fisher (Fermentas)	FastDigest® BsuRI	GGCC	37
+Thermo Fisher (Fermentas)	FastDigest® BveI	ACCTGC	37
+Thermo Fisher (Fermentas)	FastDigest® CaiI	CAGNNNCTG	37
+Thermo Fisher (Fermentas)	FastDigest® Cfr10I	RCCGGY	37
+Thermo Fisher (Fermentas)	FastDigest® Cfr13I	GGNCC	37
+Thermo Fisher (Fermentas)	FastDigest® CpoI	CGGWCCG	37
+Thermo Fisher (Fermentas)	FastDigest® CseI	GACGC	37
+Thermo Fisher (Fermentas)	FastDigest® CsiI	ACCWGGT	37
+Thermo Fisher (Fermentas)	FastDigest® Csp6I	GTAC	37
+Thermo Fisher (Fermentas)	FastDigest® DpnI	GATC	37
+Thermo Fisher (Fermentas)	FastDigest® DraI	TTTAAA	37
+Thermo Fisher (Fermentas)	FastDigest® Eam1104I	CTCTTC	37
+Thermo Fisher (Fermentas)	FastDigest® Eam1105I	GACNNNNNGTC	37
+Thermo Fisher (Fermentas)	FastDigest® Ecl136II	GAGCTC	37
+Thermo Fisher (Fermentas)	FastDigest® Eco105I	TACGTA	37
+Thermo Fisher (Fermentas)	FastDigest® Eco130I	CCWWGG	37
+Thermo Fisher (Fermentas)	FastDigest® Eco147I	AGGCCT	37
+Thermo Fisher (Fermentas)	FastDigest® Eco31I	GGTCTC	37
+Thermo Fisher (Fermentas)	FastDigest® Eco32I	GATATC	37
+Thermo Fisher (Fermentas)	FastDigest® Eco47I	GGWCC	37
+Thermo Fisher (Fermentas)	FastDigest® Eco47III	AGCGCT	37
+Thermo Fisher (Fermentas)	FastDigest® Eco52I	CGGCCG	37
+Thermo Fisher (Fermentas)	FastDigest® Eco57I	CTGAAG	37
+Thermo Fisher (Fermentas)	FastDigest® Eco72I	CACGTG	37
+Thermo Fisher (Fermentas)	FastDigest® Eco81I	CCTNAGG	37
+Thermo Fisher (Fermentas)	FastDigest® Eco88I	CYCGRG	37
+Thermo Fisher (Fermentas)	FastDigest® Eco91I	GGTNACC	37
+Thermo Fisher (Fermentas)	FastDigest® EcoO109I	RGGNCCY	37
+Thermo Fisher (Fermentas)	FastDigest® EcoRI	GAATTC	37
+Thermo Fisher (Fermentas)	FastDigest® EheI	GGCGCC	37
+Thermo Fisher (Fermentas)	FastDigest® Esp3I	CGTCTC	37
+Thermo Fisher (Fermentas)	FastDigest® FaqI	GGGAC	37
+Thermo Fisher (Fermentas)	FastDigest® FokI	GGATG	37
+Thermo Fisher (Fermentas)	FastDigest® FspAI	RTGCGCAY	37
+Thermo Fisher (Fermentas)	FastDigest® FspBI	CTAG	37
+Thermo Fisher (Fermentas)	FastDigest® GsuI	CTGGAG	30
+Thermo Fisher (Fermentas)	FastDigest® HhaI	GCGC	37
+Thermo Fisher (Fermentas)	FastDigest® Hin1I	GRCGYC	37
+Thermo Fisher (Fermentas)	FastDigest® Hin1II	CATG	37
+Thermo Fisher (Fermentas)	FastDigest® Hin6I	GCGC	37
+Thermo Fisher (Fermentas)	FastDigest® HincII	GTYRAC	37
+Thermo Fisher (Fermentas)	FastDigest® HindIII	AAGCTT	37
+Thermo Fisher (Fermentas)	FastDigest® HinfI	GANTC	37
+Thermo Fisher (Fermentas)	FastDigest® HpaII	CCGG	37
+Thermo Fisher (Fermentas)	FastDigest® Hpy8I	GTNNAC	37
+Thermo Fisher (Fermentas)	FastDigest® HpyF10VI	GCNNNNNNNGC	37
+Thermo Fisher (Fermentas)	FastDigest® HpyF3I	CTNAG	37
+Thermo Fisher (Fermentas)	FastDigest® KflI	GGGWCCC	37
+Thermo Fisher (Fermentas)	FastDigest® Kpn2I	TCCGGA	37
+Thermo Fisher (Fermentas)	FastDigest® KpnI	GGTACC	37
+Thermo Fisher (Fermentas)	FastDigest® KspAI	GTTAAC	37
+Thermo Fisher (Fermentas)	FastDigest® LguI	GCTCTTC	37
+Thermo Fisher (Fermentas)	FastDigest® Lsp1109I	GCAGC	37
+Thermo Fisher (Fermentas)	FastDigest® MauBI	CGCGCGCG	37
+Thermo Fisher (Fermentas)	FastDigest® MbiI	GAGCGG	37
+Thermo Fisher (Fermentas)	FastDigest® MboI	GATC	37
+Thermo Fisher (Fermentas)	FastDigest® MboII	GAAGA	37
+Thermo Fisher (Fermentas)	FastDigest® MlsI	TGGCCA	37
+Thermo Fisher (Fermentas)	FastDigest® MluI	ACGCGT	37
+Thermo Fisher (Fermentas)	FastDigest® MnlI	CCTC	37
+Thermo Fisher (Fermentas)	FastDigest® Mph1103I	ATGCAT	37
+Thermo Fisher (Fermentas)	FastDigest® MreI	CGCCGGCG	37
+Thermo Fisher (Fermentas)	FastDigest® MspI	CCGG	37
+Thermo Fisher (Fermentas)	FastDigest® MssI	GTTTAAAC	37
+Thermo Fisher (Fermentas)	FastDigest® MunI	CAATTG	37
+Thermo Fisher (Fermentas)	FastDigest® Mva1269I	GAATGC	37
+Thermo Fisher (Fermentas)	FastDigest® MvaI	CCWGG	37
+Thermo Fisher (Fermentas)	FastDigest® NcoI	CCATGG	37
+Thermo Fisher (Fermentas)	FastDigest® NdeI	CATATG	37
+Thermo Fisher (Fermentas)	FastDigest® NheI	GCTAGC	37
+Thermo Fisher (Fermentas)	FastDigest® NmuCI	GTSAC	37
+Thermo Fisher (Fermentas)	FastDigest® NotI	GCGGCCGC	37
+Thermo Fisher (Fermentas)	FastDigest® NsbI	TGCGCA	37
+Thermo Fisher (Fermentas)	FastDigest® OliI	CACNNNNGTG	37
+Thermo Fisher (Fermentas)	FastDigest® PacI	TTAATTAA	37
+Thermo Fisher (Fermentas)	FastDigest® PaeI	GCATGC	37
+Thermo Fisher (Fermentas)	FastDigest® PagI	TCATGA	37
+Thermo Fisher (Fermentas)	FastDigest® PdiI	GCCGGC	37
+Thermo Fisher (Fermentas)	FastDigest® PdmI	GAANNNNTTC	37
+Thermo Fisher (Fermentas)	FastDigest® PfeI	GAWTC	37
+Thermo Fisher (Fermentas)	FastDigest® Pfl23II	CGTACG	37
+Thermo Fisher (Fermentas)	FastDigest® PfoI	TCCNGGA	37
+Thermo Fisher (Fermentas)	FastDigest® Ppu21I	YACGTR	37
+Thermo Fisher (Fermentas)	FastDigest® Psp1406I	AACGTT	37
+Thermo Fisher (Fermentas)	FastDigest® Psp5II	RGGWCCY	37
+Thermo Fisher (Fermentas)	FastDigest® PspFI	CCCAGC	37
+Thermo Fisher (Fermentas)	FastDigest® PstI	CTGCAG	37
+Thermo Fisher (Fermentas)	FastDigest® PsuI	RGATCY	37
+Thermo Fisher (Fermentas)	FastDigest® PsyI	GACNNNGTC	37
+Thermo Fisher (Fermentas)	FastDigest® PteI	GCGCGC	37
+Thermo Fisher (Fermentas)	FastDigest® PvuI	CGATCG	37
+Thermo Fisher (Fermentas)	FastDigest® PvuII	CAGCTG	37
+Thermo Fisher (Fermentas)	FastDigest® RruI	TCGCGA	37
+Thermo Fisher (Fermentas)	FastDigest® RsaI	GTAC	37
+Thermo Fisher (Fermentas)	FastDigest® RseI	CAYNNNNRTG	37
+Thermo Fisher (Fermentas)	FastDigest® SacI	GAGCTC	37
+Thermo Fisher (Fermentas)	FastDigest® SalI	GTCGAC	37
+Thermo Fisher (Fermentas)	FastDigest® SaqAI	TTAA	37
+Thermo Fisher (Fermentas)	FastDigest® SatI	GCNGC	37
+Thermo Fisher (Fermentas)	FastDigest® ScaI	AGTACT	37
+Thermo Fisher (Fermentas)	FastDigest® SchI	GAGTC	37
+Thermo Fisher (Fermentas)	FastDigest® SdaI	CCTGCAGG	37
+Thermo Fisher (Fermentas)	FastDigest® SduI	GDGCHC	37
+Thermo Fisher (Fermentas)	FastDigest® SfaAI	GCGATCGC	37
+Thermo Fisher (Fermentas)	FastDigest® SfiI	GGCCNNNNNGGCC	50
+Thermo Fisher (Fermentas)	FastDigest® SgsI	GGCGCGCC	37
+Thermo Fisher (Fermentas)	FastDigest® SmaI	CCCGGG	37
+Thermo Fisher (Fermentas)	FastDigest® SmiI	ATTTAAAT	37
+Thermo Fisher (Fermentas)	FastDigest® SsiI	CCGC	37
+Thermo Fisher (Fermentas)	FastDigest® SspI	AATATT	37
+Thermo Fisher (Fermentas)	FastDigest® TaaI	ACNGT	65
+Thermo Fisher (Fermentas)	FastDigest® TaiI	ACGT	65
+Thermo Fisher (Fermentas)	FastDigest® TaqI	TCGA	65
+Thermo Fisher (Fermentas)	FastDigest® TasI	AATT	65
+Thermo Fisher (Fermentas)	FastDigest® TatI	WGTACW	65
+Thermo Fisher (Fermentas)	FastDigest® TauI	GCSGC	55
+Thermo Fisher (Fermentas)	FastDigest® Tru1I	TTAA	65
+Thermo Fisher (Fermentas)	FastDigest® TscAI	CASTG	65
+Thermo Fisher (Fermentas)	FastDigest® Van91I	CCANNNNNTGG	37
+Thermo Fisher (Fermentas)	FastDigest® VspI	ATTAAT	37
+Thermo Fisher (Fermentas)	FastDigest® XagI	CCTNNNNNAGG	37
+Thermo Fisher (Fermentas)	FastDigest® XapI	RAATTY	37
+Thermo Fisher (Fermentas)	FastDigest® XbaI	TCTAGA	37
+Thermo Fisher (Fermentas)	FastDigest® XceI	RCATGY	37
+Thermo Fisher (Fermentas)	FastDigest® XhoI	CTCGAG	37
+Thermo Fisher (Fermentas)	FastDigest® XmaJI	CCTAGG	37
+Thermo Fisher (Fermentas)	FastDigest® XmiI	GTMKAC	37
+Thermo Fisher (Fermentas)	FspAI	RTGCGCAY	37
+Thermo Fisher (Fermentas)	FspBI	CTAG	37
+Thermo Fisher (Fermentas)	GsuI	CTGGAG	30
+Thermo Fisher (Fermentas)	HhaI	GCGC	37
+Thermo Fisher (Fermentas)	Hin1I	GRCGYC	37
+Thermo Fisher (Fermentas)	Hin1II	CATG	37
+Thermo Fisher (Fermentas)	Hin4I	GAYNNNNNVTC	37
+Thermo Fisher (Fermentas)	Hin6I	GCGC	37
+Thermo Fisher (Fermentas)	HincII	GTYRAC	37
+Thermo Fisher (Fermentas)	HindIII	AAGCTT	37
+Thermo Fisher (Fermentas)	HinfI	GANTC	37
+Thermo Fisher (Fermentas)	HpaII	CCGG	37
+Thermo Fisher (Fermentas)	HphI	GGTGA	37
+Thermo Fisher (Fermentas)	Hpy8I	GTNNAC	37
+Thermo Fisher (Fermentas)	HpyF10VI	GCNNNNNNNGC	37
+Thermo Fisher (Fermentas)	HpyF3I	CTNAG	37
+Thermo Fisher (Fermentas)	I-SceI	TAGGGATAACAGGGTAAT	37
+Thermo Fisher (Fermentas)	Kpn2I	TCCGGA	55
+Thermo Fisher (Fermentas)	KpnI	GGTACC	37
+Thermo Fisher (Fermentas)	KspAI	GTTAAC	37
+Thermo Fisher (Fermentas)	LguI	GCTCTTC	37
+Thermo Fisher (Fermentas)	Lsp1109I	GCAGC	37
+Thermo Fisher (Fermentas)	LweI	GCATC	37
+Thermo Fisher (Fermentas)	MauBI	CGCGCGCG	37
+Thermo Fisher (Fermentas)	MbiI	GAGCGG	37
+Thermo Fisher (Fermentas)	MboI	GATC	37
+Thermo Fisher (Fermentas)	MboII	GAAGA	37
+Thermo Fisher (Fermentas)	MlsI	TGGCCA	37
+Thermo Fisher (Fermentas)	MluI	ACGCGT	37
+Thermo Fisher (Fermentas)	MnlI	CCTC	37
+Thermo Fisher (Fermentas)	Mph1103I	ATGCAT	37
+Thermo Fisher (Fermentas)	MreI	CGCCGGCG	37
+Thermo Fisher (Fermentas)	MspI	CCGG	37
+Thermo Fisher (Fermentas)	MssI	GTTTAAAC	37
+Thermo Fisher (Fermentas)	MunI	CAATTG	37
+Thermo Fisher (Fermentas)	Mva1269I	GAATGC	37
+Thermo Fisher (Fermentas)	MvaI	CCWGG	37
+Thermo Fisher (Fermentas)	Nb.Bpu10I	CCTNAGC	37
+Thermo Fisher (Fermentas)	Nb.Mva1269I	GAATGC	37
+Thermo Fisher (Fermentas)	NcoI	CCATGG	37
+Thermo Fisher (Fermentas)	NdeI	CATATG	37
+Thermo Fisher (Fermentas)	NheI	GCTAGC	37
+Thermo Fisher (Fermentas)	NmuCI	GTSAC	37
+Thermo Fisher (Fermentas)	NotI	GCGGCCGC	37
+Thermo Fisher (Fermentas)	NsbI	TGCGCA	37
+Thermo Fisher (Fermentas)	Nt.Bpu10I	CCTNAGC	37
+Thermo Fisher (Fermentas)	OliI	CACNNNNGTG	37
+Thermo Fisher (Fermentas)	PacI	TTAATTAA	37
+Thermo Fisher (Fermentas)	PaeI	GCATGC	37
+Thermo Fisher (Fermentas)	PagI	TCATGA	37
+Thermo Fisher (Fermentas)	PasI	CCCWGGG	55
+Thermo Fisher (Fermentas)	PauI	GCGCGC	37
+Thermo Fisher (Fermentas)	PdiI	GCCGGC	37
+Thermo Fisher (Fermentas)	PdmI	GAANNNNTTC	37
+Thermo Fisher (Fermentas)	PfeI	GAWTC	37
+Thermo Fisher (Fermentas)	Pfl23II	CGTACG	37
+Thermo Fisher (Fermentas)	PfoI	TCCNGGA	37
+Thermo Fisher (Fermentas)	PpiI	GAACNNNNNCTC	30
+Thermo Fisher (Fermentas)	Ppu21I	YACGTR	30
+Thermo Fisher (Fermentas)	PscI	ACATGT	37
+Thermo Fisher (Fermentas)	Psp1406I	AACGTT	37
+Thermo Fisher (Fermentas)	Psp5II	RGGWCCY	37
+Thermo Fisher (Fermentas)	PstI	CTGCAG	37
+Thermo Fisher (Fermentas)	PsuI	RGATCY	37
+Thermo Fisher (Fermentas)	PsyI	GACNNNGTC	37
+Thermo Fisher (Fermentas)	PvuI	CGATCG	37
+Thermo Fisher (Fermentas)	PvuII	CAGCTG	37
+Thermo Fisher (Fermentas)	RsaI	GTAC	37
+Thermo Fisher (Fermentas)	RseI	CAYNNNNRTG	37
+Thermo Fisher (Fermentas)	SacI	GAGCTC	37
+Thermo Fisher (Fermentas)	SalI	GTCGAC	37
+Thermo Fisher (Fermentas)	SatI	GCNGC	37
+Thermo Fisher (Fermentas)	ScaI	AGTACT	37
+Thermo Fisher (Fermentas)	SchI	GAGTC	37
+Thermo Fisher (Fermentas)	SdaI	CCTGCAGG	37
+Thermo Fisher (Fermentas)	SduI	GDGCHC	37
+Thermo Fisher (Fermentas)	SfaAI	GCGATCGC	37
+Thermo Fisher (Fermentas)	SfiI	GGCCNNNNNGGCC	50
+Thermo Fisher (Fermentas)	SgrDI	CGTCGACG	37
+Thermo Fisher (Fermentas)	SgsI	GGCGCGCC	37
+Thermo Fisher (Fermentas)	SmaI	CCCGGG	30
+Thermo Fisher (Fermentas)	SmiI	ATTTAAAT	30
+Thermo Fisher (Fermentas)	SmoI	CTYRAG	55
+Thermo Fisher (Fermentas)	SmuI	CCCGC	37
+Thermo Fisher (Fermentas)	SsiI	CCGC	37
+Thermo Fisher (Fermentas)	SspDI	GGCGCC	37
+Thermo Fisher (Fermentas)	SspI	AATATT	37
+Thermo Fisher (Fermentas)	TaaI	ACNGT	65
+Thermo Fisher (Fermentas)	TaiI	ACGT	65
+Thermo Fisher (Fermentas)	TaqI	TCGA	65
+Thermo Fisher (Fermentas)	TasI	AATT	65
+Thermo Fisher (Fermentas)	TatI	WGTACW	65
+Thermo Fisher (Fermentas)	TauI	GCSGC	55
+Thermo Fisher (Fermentas)	Tru1I	TTAA	65
+Thermo Fisher (Fermentas)	TscAI	CASTG	65
+Thermo Fisher (Fermentas)	TsoI	TARCCA	55
+Thermo Fisher (Fermentas)	TstI	CACNNNNNNTCC	37
+Thermo Fisher (Fermentas)	Van91I	CCANNNNNTGG	37
+Thermo Fisher (Fermentas)	VspI	ATTAAT	37
+Thermo Fisher (Fermentas)	XagI	CCTNNNNNAGG	37
+Thermo Fisher (Fermentas)	XapI	RAATTY	37
+Thermo Fisher (Fermentas)	XbaI	TCTAGA	37
+Thermo Fisher (Fermentas)	XceI	RCATGY	37
+Thermo Fisher (Fermentas)	XhoI	CTCGAG	37
+Thermo Fisher (Fermentas)	XmaJI	CCTAGG	37
+Thermo Fisher (Fermentas)	XmiI	GTMKAC	37
+Thermo Fisher (Invitrogen)	Anza™ AanI	TTATAA	37
+Thermo Fisher (Invitrogen)	Anza™ AatII	GACGTC	37
+Thermo Fisher (Invitrogen)	Anza™ Acc65I	GGTACC	37
+Thermo Fisher (Invitrogen)	Anza™ AdeI	CACNNNGTG	37
+Thermo Fisher (Invitrogen)	Anza™ AluI	AGCT	37
+Thermo Fisher (Invitrogen)	Anza™ Alw21I	GWGCWC	37
+Thermo Fisher (Invitrogen)	Anza™ Alw26I	GTCTC	37
+Thermo Fisher (Invitrogen)	Anza™ Alw44I	GTGCAC	37
+Thermo Fisher (Invitrogen)	Anza™ ApaI	GGGCCC	30
+Thermo Fisher (Invitrogen)	Anza™ BamHI	GGATCC	37
+Thermo Fisher (Invitrogen)	Anza™ BclI	TGATCA	37
+Thermo Fisher (Invitrogen)	Anza™ BcnI	CCSGG	37
+Thermo Fisher (Invitrogen)	Anza™ BcuI	ACTAGT	37
+Thermo Fisher (Invitrogen)	Anza™ BfmI	CTRYAG	37
+Thermo Fisher (Invitrogen)	Anza™ BglI	GCCNNNNNGGC	37
+Thermo Fisher (Invitrogen)	Anza™ BglII	AGATCT	37
+Thermo Fisher (Invitrogen)	Anza™ BmsI	GCATC	37
+Thermo Fisher (Invitrogen)	Anza™ BoxI	GACNNNNGTC	37
+Thermo Fisher (Invitrogen)	Anza™ BpiI	GAAGAC	37
+Thermo Fisher (Invitrogen)	Anza™ Bpu1102I	GCTNAGC	37
+Thermo Fisher (Invitrogen)	Anza™ BseDI	CCNNGG	37
+Thermo Fisher (Invitrogen)	Anza™ BseGI	GGATG	37
+Thermo Fisher (Invitrogen)	Anza™ Bsh1236I	CGCG	37
+Thermo Fisher (Invitrogen)	Anza™ BshNI	GGYRCC	37
+Thermo Fisher (Invitrogen)	Anza™ BshTI	ACCGGT	37
+Thermo Fisher (Invitrogen)	Anza™ Bsp119I	TTCGAA	37
+Thermo Fisher (Invitrogen)	Anza™ Bsp120I	GGGCCC	37
+Thermo Fisher (Invitrogen)	Anza™ Bsp1407I	TGTACA	37
+Thermo Fisher (Invitrogen)	Anza™ Bsp143I	GATC	37
+Thermo Fisher (Invitrogen)	Anza™ BspLI	GGNNCC	37
+Thermo Fisher (Invitrogen)	Anza™ BspTI	CTTAAG	37
+Thermo Fisher (Invitrogen)	Anza™ BstXI	CCANNNNNNTGG	37
+Thermo Fisher (Invitrogen)	Anza™ Bsu15I	ATCGAT	37
+Thermo Fisher (Invitrogen)	Anza™ BsuRI	GGCC	37
+Thermo Fisher (Invitrogen)	Anza™ CaiI	CAGNNNCTG	37
+Thermo Fisher (Invitrogen)	Anza™ Cfr13I	GGNCC	37
+Thermo Fisher (Invitrogen)	Anza™ CpoI	CGGWCCG	37
+Thermo Fisher (Invitrogen)	Anza™ CsiI	ACCWGGT	37
+Thermo Fisher (Invitrogen)	Anza™ Csp6I	GTAC	37
+Thermo Fisher (Invitrogen)	Anza™ DpnI	GATC	37
+Thermo Fisher (Invitrogen)	Anza™ DraI	TTTAAA	37
+Thermo Fisher (Invitrogen)	Anza™ Eco105I	TACGTA	37
+Thermo Fisher (Invitrogen)	Anza™ Eco147I	AGGCCT	37
+Thermo Fisher (Invitrogen)	Anza™ Eco31I	GGTCTC	37
+Thermo Fisher (Invitrogen)	Anza™ Eco32I	GATATC	37
+Thermo Fisher (Invitrogen)	Anza™ Eco47I	GGWCC	37
+Thermo Fisher (Invitrogen)	Anza™ Eco47III	AGCGCT	37
+Thermo Fisher (Invitrogen)	Anza™ Eco52I	CGGCCG	37
+Thermo Fisher (Invitrogen)	Anza™ Eco72I	CACGTG	37
+Thermo Fisher (Invitrogen)	Anza™ Eco81I	CCTNAGG	37
+Thermo Fisher (Invitrogen)	Anza™ Eco88I	CYCGRG	37
+Thermo Fisher (Invitrogen)	Anza™ Eco91I	GGTNACC	37
+Thermo Fisher (Invitrogen)	Anza™ EcoO109I	RGGNCCY	37
+Thermo Fisher (Invitrogen)	Anza™ EcoRI	GAATTC	37
+Thermo Fisher (Invitrogen)	Anza™ EheI	GGCGCC	37
+Thermo Fisher (Invitrogen)	Anza™ Esp3I	CGTCTC	37
+Thermo Fisher (Invitrogen)	Anza™ FspAI	RTGCGCAY	37
+Thermo Fisher (Invitrogen)	Anza™ FspBI	CTAG	37
+Thermo Fisher (Invitrogen)	Anza™ HhaI	GCGC	37
+Thermo Fisher (Invitrogen)	Anza™ Hin1I	GRCGYC	37
+Thermo Fisher (Invitrogen)	Anza™ Hin1II	CATG	37
+Thermo Fisher (Invitrogen)	Anza™ Hin6I	GCGC	37
+Thermo Fisher (Invitrogen)	Anza™ HincII	GTYRAC	37
+Thermo Fisher (Invitrogen)	Anza™ HindIII	AAGCTT	37
+Thermo Fisher (Invitrogen)	Anza™ HinfI	GANTC	37
+Thermo Fisher (Invitrogen)	Anza™ HpaII	CCGG	37
+Thermo Fisher (Invitrogen)	Anza™ Hpy8I	GTNNAC	37
+Thermo Fisher (Invitrogen)	Anza™ HpyF10VI	GCNNNNNNNGC	37
+Thermo Fisher (Invitrogen)	Anza™ HpyF3I	CTNAG	37
+Thermo Fisher (Invitrogen)	Anza™ KflI	GGGWCCC	37
+Thermo Fisher (Invitrogen)	Anza™ Kpn2I	TCCGGA	37
+Thermo Fisher (Invitrogen)	Anza™ KpnI	GGTACC	37
+Thermo Fisher (Invitrogen)	Anza™ KspAI	GTTAAC	37
+Thermo Fisher (Invitrogen)	Anza™ LguI	GCTCTTC	37
+Thermo Fisher (Invitrogen)	Anza™ MauBI	CGCGCGCG	37
+Thermo Fisher (Invitrogen)	Anza™ MbiI	GAGCGG	37
+Thermo Fisher (Invitrogen)	Anza™ MboI	GATC	37
+Thermo Fisher (Invitrogen)	Anza™ MboII	GAAGA	37
+Thermo Fisher (Invitrogen)	Anza™ MlsI	TGGCCA	37
+Thermo Fisher (Invitrogen)	Anza™ MluI	ACGCGT	37
+Thermo Fisher (Invitrogen)	Anza™ MnlI	CCTC	37
+Thermo Fisher (Invitrogen)	Anza™ Mph1103I	ATGCAT	37
+Thermo Fisher (Invitrogen)	Anza™ MreI	CGCCGGCG	37
+Thermo Fisher (Invitrogen)	Anza™ MspI	CCGG	37
+Thermo Fisher (Invitrogen)	Anza™ MssI	GTTTAAAC	37
+Thermo Fisher (Invitrogen)	Anza™ MunI	CAATTG	37
+Thermo Fisher (Invitrogen)	Anza™ Mva1269I	GAATGC	37
+Thermo Fisher (Invitrogen)	Anza™ NcoI	CCATGG	37
+Thermo Fisher (Invitrogen)	Anza™ NdeI	CATATG	37
+Thermo Fisher (Invitrogen)	Anza™ NheI	GCTAGC	37
+Thermo Fisher (Invitrogen)	Anza™ NmuCI	GTSAC	37
+Thermo Fisher (Invitrogen)	Anza™ NotI	GCGGCCGC	37
+Thermo Fisher (Invitrogen)	Anza™ NsbI	TGCGCA	37
+Thermo Fisher (Invitrogen)	Anza™ PacI	TTAATTAA	37
+Thermo Fisher (Invitrogen)	Anza™ PaeI	GCATGC	37
+Thermo Fisher (Invitrogen)	Anza™ PagI	TCATGA	37
+Thermo Fisher (Invitrogen)	Anza™ PdiI	GCCGGC	37
+Thermo Fisher (Invitrogen)	Anza™ PdmI	GAANNNNTTC	37
+Thermo Fisher (Invitrogen)	Anza™ PfeI	GAWTC	37
+Thermo Fisher (Invitrogen)	Anza™ Pfl23II	CGTACG	37
+Thermo Fisher (Invitrogen)	Anza™ PfoI	TCCNGGA	37
+Thermo Fisher (Invitrogen)	Anza™ Psp1406I	AACGTT	37
+Thermo Fisher (Invitrogen)	Anza™ PspFI	CCCAGC	37
+Thermo Fisher (Invitrogen)	Anza™ PstI	CTGCAG	37
+Thermo Fisher (Invitrogen)	Anza™ PteI	GCGCGC	37
+Thermo Fisher (Invitrogen)	Anza™ PvuI	CGATCG	37
+Thermo Fisher (Invitrogen)	Anza™ PvuII	CAGCTG	37
+Thermo Fisher (Invitrogen)	Anza™ RruI	TCGCGA	37
+Thermo Fisher (Invitrogen)	Anza™ RsaI	GTAC	37
+Thermo Fisher (Invitrogen)	Anza™ RseI	CAYNNNNRTG	37
+Thermo Fisher (Invitrogen)	Anza™ SacI	GAGCTC	37
+Thermo Fisher (Invitrogen)	Anza™ SalI	GTCGAC	37
+Thermo Fisher (Invitrogen)	Anza™ SaqAI	TTAA	37
+Thermo Fisher (Invitrogen)	Anza™ SatI	GCNGC	37
+Thermo Fisher (Invitrogen)	Anza™ ScaI	AGTACT	37
+Thermo Fisher (Invitrogen)	Anza™ SfaAI	GCGATCGC	37
+Thermo Fisher (Invitrogen)	Anza™ SgsI	GGCGCGCC	37
+Thermo Fisher (Invitrogen)	Anza™ SmaI	CCCGGG	37
+Thermo Fisher (Invitrogen)	Anza™ SmiI	ATTTAAAT	37
+Thermo Fisher (Invitrogen)	Anza™ Van91I	CCANNNNNTGG	37
+Thermo Fisher (Invitrogen)	Anza™ VspI	ATTAAT	37
+Thermo Fisher (Invitrogen)	Anza™ XagI	CCTNNNNNAGG	37
+Thermo Fisher (Invitrogen)	Anza™ XapI	RAATTY	37
+Thermo Fisher (Invitrogen)	Anza™ XbaI	TCTAGA	37
+Thermo Fisher (Invitrogen)	Anza™ XceI	RCATGY	37
+Thermo Fisher (Invitrogen)	Anza™ XhoI	CTCGAG	37
+Thermo Fisher (Invitrogen)	Anza™ XmaJI	CCTAGG	37
+Thermo Fisher (Invitrogen)	Anza™ XmiI	GTMKAC	37
+Toyobo Biochemicals	AatI	AGGCCT	37
+Toyobo Biochemicals	AatII	GACGTC	37
+Toyobo Biochemicals	AccI	GTMKAC	37
+Toyobo Biochemicals	AflII	CTTAAG	37
+Toyobo Biochemicals	AluI	AGCT	37
+Toyobo Biochemicals	Alw44I	GTGCAC	37
+Toyobo Biochemicals	ApaI	GGGCCC	37
+Toyobo Biochemicals	AseI	ATTAAT	37
+Toyobo Biochemicals	AvaI	CYCGRG	37
+Toyobo Biochemicals	BamHI	GGATCC	37
+Toyobo Biochemicals	BanI	GGYRCC	50
+Toyobo Biochemicals	BanII	GRGCYC	37
+Toyobo Biochemicals	BanIII	ATCGAT	37
+Toyobo Biochemicals	BbrPI	CACGTG	37
+Toyobo Biochemicals	BclI	TGATCA	50
+Toyobo Biochemicals	BfrI	CTTAAG	37
+Toyobo Biochemicals	BglI	GCCNNNNNGGC	37
+Toyobo Biochemicals	BglII	AGATCT	37
+Toyobo Biochemicals	BsiWI	CGTACG	55
+Toyobo Biochemicals	BsmI	GAATGC	65
+Toyobo Biochemicals	BssHII	GCGCGC	50
+Toyobo Biochemicals	BstEII	GGTNACC	60
+Toyobo Biochemicals	BstXI	CCANNNNNNTGG	50
+Toyobo Biochemicals	Cfr10I	RCCGGY	37
+Toyobo Biochemicals	Cfr13I	GGNCC	37
+Toyobo Biochemicals	Cfr9I	CCCGGG	37
+Toyobo Biochemicals	Csp45I	TTCGAA	37
+Toyobo Biochemicals	CspI	CGGWCCG	30
+Toyobo Biochemicals	DdeI	CTNAG	37
+Toyobo Biochemicals	DpnI	GATC	37
+Toyobo Biochemicals	DraI	TTTAAA	37
+Toyobo Biochemicals	Eco105I	TACGTA	37
+Toyobo Biochemicals	Eco47I	GGWCC	37
+Toyobo Biochemicals	Eco47III	AGCGCT	37
+Toyobo Biochemicals	Eco52I	CGGCCG	37
+Toyobo Biochemicals	Eco81I	CCTNAGG	37
+Toyobo Biochemicals	EcoRI	GAATTC	37
+Toyobo Biochemicals	EcoRII	CCWGG	37
+Toyobo Biochemicals	EcoRV	GATATC	37
+Toyobo Biochemicals	EcoT22I	ATGCAT	37
+Toyobo Biochemicals	EheI	GGCGCC	37
+Toyobo Biochemicals	FspI	TGCGCA	37
+Toyobo Biochemicals	HaeII	RGCGCY	37
+Toyobo Biochemicals	HaeIII	GGCC	37
+Toyobo Biochemicals	HhaI	GCGC	37
+Toyobo Biochemicals	Hin1I	GRCGYC	37
+Toyobo Biochemicals	HincII	GTYRAC	37
+Toyobo Biochemicals	HindIII	AAGCTT	37
+Toyobo Biochemicals	HinfI	GANTC	37
+Toyobo Biochemicals	HpaI	GTTAAC	37
+Toyobo Biochemicals	HpaII	CCGG	37
+Toyobo Biochemicals	KpnI	GGTACC	37
+Toyobo Biochemicals	MboII	GAAGA	37
+Toyobo Biochemicals	MluI	ACGCGT	37
+Toyobo Biochemicals	MroI	TCCGGA	37
+Toyobo Biochemicals	MscI	TGGCCA	37
+Toyobo Biochemicals	MspI	CCGG	37
+Toyobo Biochemicals	MvaI	CCWGG	37
+Toyobo Biochemicals	NaeI	GCCGGC	37
+Toyobo Biochemicals	NarI	GGCGCC	37
+Toyobo Biochemicals	NciI	CCSGG	37
+Toyobo Biochemicals	NcoI	CCATGG	37
+Toyobo Biochemicals	NheI	GCTAGC	37
+Toyobo Biochemicals	NotI	GCGGCCGC	37
+Toyobo Biochemicals	NruI	TCGCGA	37
+Toyobo Biochemicals	NspV	TTCGAA	37
+Toyobo Biochemicals	PacI	TTAATTAA	37
+Toyobo Biochemicals	PpuMI	RGGWCCY	37
+Toyobo Biochemicals	PsiI	TTATAA	37
+Toyobo Biochemicals	PstI	CTGCAG	37
+Toyobo Biochemicals	PvuI	CGATCG	37
+Toyobo Biochemicals	PvuII	CAGCTG	37
+Toyobo Biochemicals	RsaI	GTAC	37
+Toyobo Biochemicals	SacI	GAGCTC	37
+Toyobo Biochemicals	SacII	CCGCGG	37
+Toyobo Biochemicals	SalI	GTCGAC	37
+Toyobo Biochemicals	Sau3AI	GATC	37
+Toyobo Biochemicals	Sau96I	GGNCC	37
+Toyobo Biochemicals	SbfI	CCTGCAGG	37
+Toyobo Biochemicals	ScaI	AGTACT	37
+Toyobo Biochemicals	ScrFI	CCNGG	37
+Toyobo Biochemicals	SfiI	GGCCNNNNNGGCC	50
+Toyobo Biochemicals	SmaI	CCCGGG	30
+Toyobo Biochemicals	SpeI	ACTAGT	37
+Toyobo Biochemicals	SphI	GCATGC	37
+Toyobo Biochemicals	SrfI	GCCCGGGC	37
+Toyobo Biochemicals	SspI	AATATT	37
+Toyobo Biochemicals	TaqI	TCGA	65
+Toyobo Biochemicals	TspEI	AATT	65
+Toyobo Biochemicals	XbaI	TCTAGA	37
+Toyobo Biochemicals	XhoI	CTCGAG	37
+Vivantis	AatII	GACGTC	37
+Vivantis	Acc16I	TGCGCA	37
+Vivantis	Acc65I	GGTACC	37
+Vivantis	AccB1I	GGYRCC	37
+Vivantis	AccB7I	CCANNNNNTGG	37
+Vivantis	AccBSI	CCGCTC	37
+Vivantis	AclI	AACGTT	37
+Vivantis	AcsI	RAATTY	50
+Vivantis	AfiI	CCNNNNNNNGG	50
+Vivantis	AhlI	ACTAGT	37
+Vivantis	AluI	AGCT	37
+Vivantis	Ama87I	CYCGRG	37
+Vivantis	ApaI	GGGCCC	37
+Vivantis	AsiGI	ACCGGT	37
+Vivantis	AspA2I	CCTAGG	37
+Vivantis	AspLEI	GCGC	37
+Vivantis	AspS9I	GGNCC	37
+Vivantis	AsuHPI	GGTGA	37
+Vivantis	AsuNHI	GCTAGC	37
+Vivantis	BamHI	GGATCC	37
+Vivantis	Bbv12I	GWGCWC	37
+Vivantis	BglI	GCCNNNNNGGC	37
+Vivantis	BglII	AGATCT	37
+Vivantis	BmcAI	AGTACT	37
+Vivantis	Bme18I	GGWCC	37
+Vivantis	BmeRI	GACNNNNNGTC	37
+Vivantis	BmiI	GGNNCC	37
+Vivantis	BmrFI	CCNGG	37
+Vivantis	BmtI	GCTAGC	37
+Vivantis	Bpu10I	CCTNAGC	37
+Vivantis	Bpu14I	TTCGAA	37
+Vivantis	BpuMI	CCSGG	37
+Vivantis	BpvUI	CGATCG	37
+Vivantis	Bse118I	RCCGGY	65
+Vivantis	Bse1I	ACTGG	65
+Vivantis	Bse21I	CCTNAGG	37
+Vivantis	Bse3DI	GCAATG	60
+Vivantis	Bse8I	GATNNNNATC	60
+Vivantis	BsePI	GCGCGC	50
+Vivantis	BseX3I	CGGCCG	50
+Vivantis	BshVI	ATCGAT	37
+Vivantis	BsnI	GGCC	37
+Vivantis	Bso31I	GGTCTC	55
+Vivantis	Bsp13I	TCCGGA	50
+Vivantis	Bsp1720I	GCTNAGC	37
+Vivantis	Bsp19I	CCATGG	37
+Vivantis	BssMI	GATC	37
+Vivantis	BssNAI	GTATAC	37
+Vivantis	BssNI	GRCGYC	37
+Vivantis	BssT1I	CCWWGG	60
+Vivantis	Bst2BI	CACGAG	60
+Vivantis	Bst2UI	CCWGG	60
+Vivantis	Bst4CI	ACNGT	65
+Vivantis	Bst6I	CTCTTC	65
+Vivantis	BstAUI	TGTACA	37
+Vivantis	BstBAI	YACGTR	65
+Vivantis	BstDEI	CTNAG	60
+Vivantis	BstDSI	CCRYGG	65
+Vivantis	BstENI	CCTNNNNNAGG	65
+Vivantis	BstF5I	GGATG	65
+Vivantis	BstFNI	CGCG	60
+Vivantis	BstH2I	RGCGCY	65
+Vivantis	BstHHI	GCGC	50
+Vivantis	BstMAI	GTCTC	55
+Vivantis	BstMBI	GATC	65
+Vivantis	BstMCI	CGRYCG	50
+Vivantis	BstNSI	RCATGY	37
+Vivantis	BstPAI	GACNNNNGTC	65
+Vivantis	BstSNI	TACGTA	37
+Vivantis	BstV2I	GAAGAC	55
+Vivantis	BstX2I	RGATCY	60
+Vivantis	BstXI	CCANNNNNNTGG	37
+Vivantis	BtrI	CACGTC	60
+Vivantis	BtuMI	TCGCGA	37
+Vivantis	CciNI	GCGGCCGC	37
+Vivantis	DinI	GGCGCC	37
+Vivantis	DraI	TTTAAA	37
+Vivantis	DraIII	CACNNNGTG	37
+Vivantis	DseDI	GACNNNNNNGTC	37
+Vivantis	EcoICRI	GAGCTC	37
+Vivantis	EcoRI	GAATTC	37
+Vivantis	EcoRV	GATATC	37
+Vivantis	ErhI	CCWWGG	37
+Vivantis	Fast Digest Acc65I	GGTACC	37
+Vivantis	Fast Digest AhlI	ACTAGT	37
+Vivantis	Fast Digest AluI	AGCT	37
+Vivantis	Fast Digest ApaI	GGGCCC	37
+Vivantis	Fast Digest AsiGI	ACCGGT	37
+Vivantis	Fast Digest BamHI	GGATCC	37
+Vivantis	Fast Digest BglII	AGATCT	37
+Vivantis	Fast Digest Bsp19I	CCATGG	37
+Vivantis	Fast Digest BstMAI	GTCTC	55
+Vivantis	Fast Digest EcoRI	GAATTC	37
+Vivantis	Fast Digest EcoRV	GATATC	37
+Vivantis	Fast Digest FauNDI	CATATG	37
+Vivantis	Fast Digest HindIII	AAGCTT	37
+Vivantis	Fast Digest HinfI	GANTC	37
+Vivantis	Fast Digest HpaI	GTTAAC	37
+Vivantis	Fast Digest MluI	ACGCGT	37
+Vivantis	Fast Digest PceI	AGGCCT	50
+Vivantis	Fast Digest Psp124BI	GAGCTC	37
+Vivantis	Fast Digest PstI	CTGCAG	37
+Vivantis	Fast Digest SalI	GTCGAC	37
+Vivantis	Fast Digest Sfr274I	CTCGAG	50
+Vivantis	Fast Digest SmaI	CCCGGG	25
+Vivantis	Fast Digest SphI	GCATGC	37
+Vivantis	Fast Digest XbaI	TCTAGA	37
+Vivantis	FauNDI	CATATG	37
+Vivantis	FblI	GTMKAC	55
+Vivantis	FokI	GGATG	37
+Vivantis	FriOI	GRGCYC	37
+Vivantis	HindII	GTYRAC	37
+Vivantis	HindIII	AAGCTT	37
+Vivantis	HinfI	GANTC	37
+Vivantis	HpaI	GTTAAC	37
+Vivantis	HpaII	CCGG	37
+Vivantis	HspAI	GCGC	37
+Vivantis	KpnI	GGTACC	37
+Vivantis	Ksp22I	TGATCA	37
+Vivantis	MboII	GAAGA	37
+Vivantis	MhlI	GDGCHC	37
+Vivantis	MluI	ACGCGT	37
+Vivantis	MnlI	CCTC	37
+Vivantis	MroNI	GCCGGC	37
+Vivantis	MroXI	GAANNNNTTC	37
+Vivantis	Msp20I	TGGCCA	37
+Vivantis	MspA1I	CMGCKG	37
+Vivantis	MspI	CCGG	37
+Vivantis	PceI	AGGCCT	50
+Vivantis	PctI	GAATGC	37
+Vivantis	Psp124BI	GAGCTC	37
+Vivantis	PspCI	CACGTG	37
+Vivantis	PspEI	GGTNACC	37
+Vivantis	PspOMI	GGGCCC	37
+Vivantis	PstI	CTGCAG	37
+Vivantis	PvuII	CAGCTG	37
+Vivantis	RsaI	GTAC	37
+Vivantis	Rsr2I	CGGWCCG	37
+Vivantis	SalI	GTCGAC	37
+Vivantis	SbfI	CCTGCAGG	37
+Vivantis	SfaNI	GCATC	37
+Vivantis	SfiI	GGCCNNNNNGGCC	50
+Vivantis	Sfr274I	CTCGAG	50
+Vivantis	Sfr303I	CCGCGG	37
+Vivantis	SmaI	CCCGGG	25
+Vivantis	SmiI	ATTTAAAT	37
+Vivantis	SmiMI	CAYNNNNRTG	37
+Vivantis	SphI	GCATGC	37
+Vivantis	Sse9I	AATT	55
+Vivantis	SspI	AATATT	37
+Vivantis	TaqI	TCGA	65
+Vivantis	Tru9I	TTAA	65
+Vivantis	Tth111I	GACNNNGTC	65
+Vivantis	Vha464I	CTTAAG	37
+Vivantis	VneI	GTGCAC	37
+Vivantis	VspI	ATTAAT	37
+Vivantis	XbaI	TCTAGA	37
+Vivantis	XmaI	CCCGGG	37
+Vivantis	ZraI	GACGTC	37
+Vivantis	Zsp2I	ATGCAT	37
